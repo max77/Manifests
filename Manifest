@@ -1,0 +1,1172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd dash-event-advertising.xsd" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:LGAd="dash-event-advertising.xsd" xmlns:mspr="urn:microsoft:playready" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" type="static" profiles="urn:mpeg:dash:profile:isoff-live:2011" minBufferTime="PT2.016S" maxSegmentDuration="PT0H0M2.016S" mediaPresentationDuration="PT0H24M24S">
+	<Period id="1" duration="PT0H0M48S">
+		<AssetIdentifier schemeIdUri="urn:eidr" value="md:cid:EIDR:10.5240%2f0000-0751-6F0E-0000-0000-C" />
+		<BaseURL>http://vast-e2esi.cdn.vhmd.upclabs.com/sdash/advert_195200eaaa0af749b3eead3f04057946_49d1193eaa0705568513400e602aa23c/index.mpd/</BaseURL>
+		<EventStream schemeIdUri="urn:LGAd:adEvent:2015" timescale="10000000">
+			<Event id="257" presentationTime="0">PFRyYWNraW5nRXZlbnRzPjxUcmFja2luZyBldmVudD0ic3RhcnQiPmh0dHA6Ly8xMC42My42OC4xODY6ODA4MC90cmFja2luZy9zdGFydD90aW1lc3RhbXA9W1RJTUVTVEFNUF0mYW1wO2NhY2hlYnVzdGluZz1bQ0FDSEVCVVNUSU5HXSZhbXA7bWVkaXBsYXloZWFkPVtNRURJQVBMQVlIRUFEXSZhbXA7YnJlYWtwb3NpdGlvbj1bQlJFQUtQT1NJVElPTl0mYW1wO2FkY291bnQ9W0FEQ09VTlRdJmFtcDt1bml2ZXJzYWxhZGlkPVtVTklWRVJTQUxBRElEXSZhbXA7b3RoZXI9W09USEVSXTwvVHJhY2tpbmc+PFRyYWNraW5nIGV2ZW50PSJmaXJzdFF1YXJ0aWxlIj5odHRwOi8vMTAuNjMuNjguMTg2OjgwODAvdHJhY2tpbmcvZmlyc3RRdWFydGlsZT90aW1lc3RhbXA9W1RJTUVTVEFNUF0mYW1wO2NhY2hlYnVzdGluZz1bQ0FDSEVCVVNUSU5HXSZhbXA7bWVkaXBsYXloZWFkPVtNRURJQVBMQVlIRUFEXSZhbXA7YnJlYWtwb3NpdGlvbj1bQlJFQUtQT1NJVElPTl0mYW1wO2FkY291bnQ9W0FEQ09VTlRdJmFtcDt1bml2ZXJzYWxhZGlkPVtVTklWRVJTQUxBRElEXSZhbXA7b3RoZXI9W09USEVSXTwvVHJhY2tpbmc+PFRyYWNraW5nIGV2ZW50PSJtaWRwb2ludCI+aHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL3RyYWNraW5nL21pZHBvaW50P3RpbWVzdGFtcD1bVElNRVNUQU1QXSZhbXA7Y2FjaGVidXN0aW5nPVtDQUNIRUJVU1RJTkddJmFtcDttZWRpcGxheWhlYWQ9W01FRElBUExBWUhFQURdJmFtcDticmVha3Bvc2l0aW9uPVtCUkVBS1BPU0lUSU9OXSZhbXA7YWRjb3VudD1bQURDT1VOVF0mYW1wO3VuaXZlcnNhbGFkaWQ9W1VOSVZFUlNBTEFESURdJmFtcDtvdGhlcj1bT1RIRVJdPC9UcmFja2luZz48VHJhY2tpbmcgZXZlbnQ9InRoaXJkUXVhcnRpbGUiPmh0dHA6Ly8xMC42My42OC4xODY6ODA4MC90cmFja2luZy90aGlyZFF1YXJ0aWxlP3RpbWVzdGFtcD1bVElNRVNUQU1QXSZhbXA7Y2FjaGVidXN0aW5nPVtDQUNIRUJVU1RJTkddJmFtcDttZWRpcGxheWhlYWQ9W01FRElBUExBWUhFQURdJmFtcDticmVha3Bvc2l0aW9uPVtCUkVBS1BPU0lUSU9OXSZhbXA7YWRjb3VudD1bQURDT1VOVF0mYW1wO3VuaXZlcnNhbGFkaWQ9W1VOSVZFUlNBTEFESURdJmFtcDtvdGhlcj1bT1RIRVJdPC9UcmFja2luZz48VHJhY2tpbmcgZXZlbnQ9ImNvbXBsZXRlIj5odHRwOi8vMTAuNjMuNjguMTg2OjgwODAvdHJhY2tpbmcvY29tcGxldGU/dGltZXN0YW1wPVtUSU1FU1RBTVBdJmFtcDtjYWNoZWJ1c3Rpbmc9W0NBQ0hFQlVTVElOR10mYW1wO21lZGlwbGF5aGVhZD1bTUVESUFQTEFZSEVBRF0mYW1wO2JyZWFrcG9zaXRpb249W0JSRUFLUE9TSVRJT05dJmFtcDthZGNvdW50PVtBRENPVU5UXSZhbXA7dW5pdmVyc2FsYWRpZD1bVU5JVkVSU0FMQURJRF0mYW1wO290aGVyPVtPVEhFUl08L1RyYWNraW5nPjxUcmFja2luZyBldmVudD0icHJvZ3Jlc3MiIG9mZnNldD0iMDA6MDA6MTAiPmh0dHA6Ly8xMC42My42OC4xODY6ODA4MC90cmFja2luZy9wcm9ncmVzcy0xMD90aW1lc3RhbXA9W1RJTUVTVEFNUF0mYW1wO2NhY2hlYnVzdGluZz1bQ0FDSEVCVVNUSU5HXSZhbXA7bWVkaXBsYXloZWFkPVtNRURJQVBMQVlIRUFEXSZhbXA7YnJlYWtwb3NpdGlvbj1bQlJFQUtQT1NJVElPTl0mYW1wO2FkY291bnQ9W0FEQ09VTlRdJmFtcDt1bml2ZXJzYWxhZGlkPVtVTklWRVJTQUxBRElEXSZhbXA7b3RoZXI9W09USEVSXTwvVHJhY2tpbmc+PFRyYWNraW5nIGV2ZW50PSJwbGF5ZXJDb2xsYXBzZSI+aHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL3RyYWNraW5nL3BsYXllckNvbGxhcHNlP3RpbWVzdGFtcD1bVElNRVNUQU1QXSZhbXA7Y2FjaGVidXN0aW5nPVtDQUNIRUJVU1RJTkddJmFtcDttZWRpcGxheWhlYWQ9W01FRElBUExBWUhFQURdJmFtcDticmVha3Bvc2l0aW9uPVtCUkVBS1BPU0lUSU9OXSZhbXA7YWRjb3VudD1bQURDT1VOVF0mYW1wO3VuaXZlcnNhbGFkaWQ9W1VOSVZFUlNBTEFESURdJmFtcDtvdGhlcj1bT1RIRVJdPC9UcmFja2luZz48VHJhY2tpbmcgZXZlbnQ9InBsYXllckV4cGFuZCI+aHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL3RyYWNraW5nL3BsYXllckV4cGFuZD90aW1lc3RhbXA9W1RJTUVTVEFNUF0mYW1wO2NhY2hlYnVzdGluZz1bQ0FDSEVCVVNUSU5HXSZhbXA7bWVkaXBsYXloZWFkPVtNRURJQVBMQVlIRUFEXSZhbXA7YnJlYWtwb3NpdGlvbj1bQlJFQUtQT1NJVElPTl0mYW1wO2FkY291bnQ9W0FEQ09VTlRdJmFtcDt1bml2ZXJzYWxhZGlkPVtVTklWRVJTQUxBRElEXSZhbXA7b3RoZXI9W09USEVSXTwvVHJhY2tpbmc+PFRyYWNraW5nIGV2ZW50PSJmdWxsc2NyZWVuIj5odHRwOi8vMTAuNjMuNjguMTg2OjgwODAvdHJhY2tpbmcvZnVsbHNjcmVlbi8xP3RpbWVzdGFtcD1bVElNRVNUQU1QXSZhbXA7Y2FjaGVidXN0aW5nPVtDQUNIRUJVU1RJTkddJmFtcDttZWRpcGxheWhlYWQ9W01FRElBUExBWUhFQURdJmFtcDticmVha3Bvc2l0aW9uPVtCUkVBS1BPU0lUSU9OXSZhbXA7YWRjb3VudD1bQURDT1VOVF0mYW1wO3VuaXZlcnNhbGFkaWQ9W1VOSVZFUlNBTEFESURdJmFtcDtvdGhlcj1bT1RIRVJdPC9UcmFja2luZz48VHJhY2tpbmcgZXZlbnQ9InJlc3VtZSI+aHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL3RyYWNraW5nL3Jlc3VtZT90aW1lc3RhbXA9W1RJTUVTVEFNUF0mYW1wO2NhY2hlYnVzdGluZz1bQ0FDSEVCVVNUSU5HXSZhbXA7bWVkaXBsYXloZWFkPVtNRURJQVBMQVlIRUFEXSZhbXA7YnJlYWtwb3NpdGlvbj1bQlJFQUtQT1NJVElPTl0mYW1wO2FkY291bnQ9W0FEQ09VTlRdJmFtcDt1bml2ZXJzYWxhZGlkPVtVTklWRVJTQUxBRElEXSZhbXA7b3RoZXI9W09USEVSXTwvVHJhY2tpbmc+PFRyYWNraW5nIGV2ZW50PSJwYXVzZSI+aHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL3RyYWNraW5nL3BhdXNlP3RpbWVzdGFtcD1bVElNRVNUQU1QXSZhbXA7Y2FjaGVidXN0aW5nPVtDQUNIRUJVU1RJTkddJmFtcDttZWRpcGxheWhlYWQ9W01FRElBUExBWUhFQURdJmFtcDticmVha3Bvc2l0aW9uPVtCUkVBS1BPU0lUSU9OXSZhbXA7YWRjb3VudD1bQURDT1VOVF0mYW1wO3VuaXZlcnNhbGFkaWQ9W1VOSVZFUlNBTEFESURdJmFtcDtvdGhlcj1bT1RIRVJdPC9UcmFja2luZz48VHJhY2tpbmcgZXZlbnQ9InNraXAiPmh0dHA6Ly8xMC42My42OC4xODY6ODA4MC90cmFja2luZy9za2lwP3RpbWVzdGFtcD1bVElNRVNUQU1QXSZhbXA7Y2FjaGVidXN0aW5nPVtDQUNIRUJVU1RJTkddJmFtcDttZWRpcGxheWhlYWQ9W01FRElBUExBWUhFQURdJmFtcDticmVha3Bvc2l0aW9uPVtCUkVBS1BPU0lUSU9OXSZhbXA7YWRjb3VudD1bQURDT1VOVF0mYW1wO3VuaXZlcnNhbGFkaWQ9W1VOSVZFUlNBTEFESURdJmFtcDtvdGhlcj1bT1RIRVJdPC9UcmFja2luZz48VHJhY2tpbmcgZXZlbnQ9InJld2luZCI+aHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL3RyYWNraW5nL3Jld2luZD90aW1lc3RhbXA9W1RJTUVTVEFNUF0mYW1wO2NhY2hlYnVzdGluZz1bQ0FDSEVCVVNUSU5HXSZhbXA7bWVkaXBsYXloZWFkPVtNRURJQVBMQVlIRUFEXSZhbXA7YnJlYWtwb3NpdGlvbj1bQlJFQUtQT1NJVElPTl0mYW1wO2FkY291bnQ9W0FEQ09VTlRdJmFtcDt1bml2ZXJzYWxhZGlkPVtVTklWRVJTQUxBRElEXSZhbXA7b3RoZXI9W09USEVSXTwvVHJhY2tpbmc+PC9UcmFja2luZ0V2ZW50cz48RXJyb3I+PCFbQ0RBVEFbaHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL2Vycm9yXV0+PC9FcnJvcj48SW1wcmVzc2lvbiBpZD0iMSI+PCFbQ0RBVEFbaHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL2ltcHJlc3Npb25dXT48L0ltcHJlc3Npb24+PFZpZGVvQ2xpY2tzPjxDbGlja1Rocm91Z2g+PCFbQ0RBVEFbaHR0cDovL0NsaWNrVGhyb3VnaF1dPjwvQ2xpY2tUaHJvdWdoPjxDbGlja1RyYWNraW5nPjwhW0NEQVRBW2h0dHA6Ly9DbGlja1RyYWNraW5nXV0+PC9DbGlja1RyYWNraW5nPjxDdXN0b21DbGljaz48IVtDREFUQVtodHRwOi8vQ3VzdG9tQ2xpY2tdXT48L0N1c3RvbUNsaWNrPjwvVmlkZW9DbGlja3M+PEFkVmVyaWZpY2F0aW9ucz48VmVyaWZpY2F0aW9uPjxKYXZhU2NyaXB0UmVzb3VyY2U+PCFbQ0RBVEFbaHR0cDovL2phdmFzY3JpcHQvcmVzb3VyY2VdXT48L0phdmFTY3JpcHRSZXNvdXJjZT48L1ZlcmlmaWNhdGlvbj48L0FkVmVyaWZpY2F0aW9ucz48VW5pdmVyc2FsQWRJZCBpZFJlZ2lzdHJ5PSJYWFhYIj5ZWVlZPC9Vbml2ZXJzYWxBZElkPjxNZWRpYUZpbGUgZGVsaXZlcnk9InN0cmVhbWluZyIgaGVpZ2h0PSIwIiB3aWR0aD0iMCIgdHlwZT0iYXBwbGljYXRpb24vZGFzaCt4bWwiPjwhW0NEQVRBW2h0dHA6Ly92YXN0LWUyZXNpLmNkbi52aG1kLnVwY2xhYnMuY29tL3NkYXNoL2FkdmVydF8xOTUyMDBlYWFhMGFmNzQ5YjNlZWFkM2YwNDA1Nzk0Nl80OWQxMTkzZWFhMDcwNTU2ODUxMzQwMGU2MDJhYTIzYy9pbmRleC5tcGQvTWFuaWZlc3Q/ZGV2aWNlPUFWQURdXT48L01lZGlhRmlsZT4KCg==</Event>
+		</EventStream>
+		<AdaptationSet id="1" contentType="video" group="1" par="16:9" maxWidth="1920" maxHeight="1080" maxFrameRate="25" segmentAlignment="true" bitstreamSwitching="true" mimeType="video/mp4" startWithSAP="1">
+			<SegmentTemplate initialization="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(video=Init)" timescale="10000000" media="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(video=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="20000000" r="23" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="dxADMSkdBhIbnw.." width="384" height="216" sar="1:1" frameRate="25" codecs="avc1.4d400d" scanType="progressive" bandwidth="400681" />
+			<Representation id="dxADMW-xChIbnw.." width="512" height="288" sar="1:1" frameRate="25" codecs="avc1.4d4015" scanType="progressive" bandwidth="700783" />
+			<Representation id="dxADMaDMEBIbnw.." width="704" height="396" sar="1:1" frameRate="25" codecs="avc1.4d401e" scanType="progressive" bandwidth="1100960" />
+			<Representation id="dxADMYFuGBIbnw.." width="1024" height="576" sar="1:1" frameRate="25" codecs="avc1.4d401f" scanType="progressive" bandwidth="1601153" />
+			<Representation id="dxADMd6-KhIbnw.." width="1280" height="720" sar="1:1" frameRate="25" codecs="avc1.4d401f" scanType="progressive" bandwidth="2801374" />
+			<Representation id="dxADMbavRBIbnw.." width="1920" height="1080" sar="1:1" frameRate="25" codecs="avc1.4d4028" scanType="progressive" bandwidth="4501430" />
+		</AdaptationSet>
+		<AdaptationSet id="2" contentType="video" group="1" par="16:9" maxWidth="1920" maxHeight="1080" maxFrameRate="25" segmentAlignment="true" bitstreamSwitching="true" mimeType="video/mp4" startWithSAP="1">
+			<SegmentTemplate initialization="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(video=Init)" timescale="10000000" media="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(video=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="20000000" r="23" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="dxADMV6_DRIknw.." width="720" height="576" sar="1:1" frameRate="25" codecs="hvc1.2.4.l90.b0" scanType="progressive" bandwidth="900958" />
+			<Representation id="dxADMQF8GxIknw.." width="720" height="576" sar="1:1" frameRate="25" codecs="hvc1.2.4.l90.b0" scanType="progressive" bandwidth="1801217" />
+			<Representation id="dxADMcvVahIknw.." width="1920" height="1080" sar="1:1" frameRate="25" codecs="hvc1.2.4.l120.b0" scanType="progressive" bandwidth="7001547" />
+		</AdaptationSet>
+		<AdaptationSet id="3" contentType="video" group="32" par="16:9" maxWidth="1920" maxHeight="1080" maxFrameRate="25" segmentAlignment="true" bitstreamSwitching="true" mimeType="video/mp4" startWithSAP="1" codingDependency="false">
+			<EssentialProperty schemeIdUri="http://dashif.org/guidelines/trickmode" value="1" />
+			<Role schemeIdUri="urn:mpeg:dash:role:2011" value="alternate" />
+			<SegmentTemplate initialization="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(trickmode=Init)" timescale="10000000" media="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(trickmode=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="20000000" r="23" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="trickmodedxADMSkdBhIbnw.." width="384" height="216" sar="1:1" frameRate="1" codecs="avc1.4d400d" maxPlayoutRate="25" scanType="progressive" bandwidth="400681" />
+			<Representation id="trickmodedxADMW-xChIbnw.." width="512" height="288" sar="1:1" frameRate="1" codecs="avc1.4d4015" maxPlayoutRate="25" scanType="progressive" bandwidth="700783" />
+			<Representation id="trickmodedxADMaDMEBIbnw.." width="704" height="396" sar="1:1" frameRate="1" codecs="avc1.4d401e" maxPlayoutRate="25" scanType="progressive" bandwidth="1100960" />
+			<Representation id="trickmodedxADMYFuGBIbnw.." width="1024" height="576" sar="1:1" frameRate="1" codecs="avc1.4d401f" maxPlayoutRate="25" scanType="progressive" bandwidth="1601153" />
+			<Representation id="trickmodedxADMd6-KhIbnw.." width="1280" height="720" sar="1:1" frameRate="1" codecs="avc1.4d401f" maxPlayoutRate="25" scanType="progressive" bandwidth="2801374" />
+			<Representation id="trickmodedxADMbavRBIbnw.." width="1920" height="1080" sar="1:1" frameRate="1" codecs="avc1.4d4028" maxPlayoutRate="25" scanType="progressive" bandwidth="4501430" />
+		</AdaptationSet>
+		<AdaptationSet id="4" contentType="video" group="32" par="16:9" maxWidth="1920" maxHeight="1080" maxFrameRate="25" segmentAlignment="true" bitstreamSwitching="true" mimeType="video/mp4" startWithSAP="1" codingDependency="false">
+			<EssentialProperty schemeIdUri="http://dashif.org/guidelines/trickmode" value="2" />
+			<Role schemeIdUri="urn:mpeg:dash:role:2011" value="alternate" />
+			<SegmentTemplate initialization="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(trickmode=Init)" timescale="10000000" media="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(trickmode=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="20000000" r="23" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="trickmodedxADMV6_DRIknw.." width="720" height="576" sar="1:1" frameRate="1" codecs="hvc1.2.4.l90.b0" maxPlayoutRate="25" scanType="progressive" bandwidth="900958" />
+			<Representation id="trickmodedxADMQF8GxIknw.." width="720" height="576" sar="1:1" frameRate="1" codecs="hvc1.2.4.l90.b0" maxPlayoutRate="25" scanType="progressive" bandwidth="1801217" />
+			<Representation id="trickmodedxADMcvVahIknw.." width="1920" height="1080" sar="1:1" frameRate="1" codecs="hvc1.2.4.l120.b0" maxPlayoutRate="25" scanType="progressive" bandwidth="7001547" />
+		</AdaptationSet>
+		<AdaptationSet id="5" contentType="audio" group="2" lang="eng" segmentAlignment="true" bitstreamSwitching="true" mimeType="audio/mp4">
+			<AudioChannelConfiguration schemeIdUri="tag:dolby.com,2014:dash:audio_channel_configuration:2011" value="f801" />
+			<Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+			<SegmentTemplate initialization="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(audio_482_eng=Init)" timescale="48000" media="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(audio_482_eng=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="96768" />
+					<S t="96768" d="95232" />
+					<S t="192000" d="96768" />
+					<S t="288768" d="95232" />
+					<S t="384000" d="96768" />
+					<S t="480768" d="95232" />
+					<S t="576000" d="96768" />
+					<S t="672768" d="95232" />
+					<S t="768000" d="96768" />
+					<S t="864768" d="95232" />
+					<S t="960000" d="96768" />
+					<S t="1056768" d="95232" />
+					<S t="1152000" d="96768" />
+					<S t="1248768" d="95232" />
+					<S t="1344000" d="96768" />
+					<S t="1440768" d="95232" />
+					<S t="1536000" d="96768" />
+					<S t="1632768" d="95232" />
+					<S t="1728000" d="96768" />
+					<S t="1824768" d="95232" />
+					<S t="1920000" d="96768" />
+					<S t="2016768" d="95232" />
+					<S t="2112000" d="96768" />
+					<S t="2208768" d="95232" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="dxADIeIBnw.." audioSamplingRate="48000" codecs="ac-3" bandwidth="384000" />
+		</AdaptationSet>
+		<AdaptationSet id="6" contentType="audio" group="2" lang="eng" segmentAlignment="true" bitstreamSwitching="true" mimeType="audio/mp4">
+			<AudioChannelConfiguration schemeIdUri="tag:dolby.com,2014:dash:audio_channel_configuration:2011" value="a000" />
+			<Role schemeIdUri="urn:mpeg:dash:role:2011" value="alternate" />
+			<SegmentTemplate initialization="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(audio_483_eng=Init)" timescale="48000" media="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(audio_483_eng=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="96768" />
+					<S t="96768" d="95232" />
+					<S t="192000" d="96768" />
+					<S t="288768" d="95232" />
+					<S t="384000" d="96768" />
+					<S t="480768" d="95232" />
+					<S t="576000" d="96768" />
+					<S t="672768" d="95232" />
+					<S t="768000" d="96768" />
+					<S t="864768" d="95232" />
+					<S t="960000" d="96768" />
+					<S t="1056768" d="95232" />
+					<S t="1152000" d="96768" />
+					<S t="1248768" d="95232" />
+					<S t="1344000" d="96768" />
+					<S t="1440768" d="95232" />
+					<S t="1536000" d="96768" />
+					<S t="1632768" d="95232" />
+					<S t="1728000" d="96768" />
+					<S t="1824768" d="95232" />
+					<S t="1920000" d="96768" />
+					<S t="2016768" d="95232" />
+					<S t="2112000" d="96768" />
+					<S t="2208768" d="95232" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="dxADIeMBnw.." audioSamplingRate="48000" codecs="ac-3" bandwidth="192000" />
+		</AdaptationSet>
+		<AdaptationSet id="7" contentType="audio" group="2" lang="eng" segmentAlignment="true" bitstreamSwitching="true" mimeType="audio/mp4">
+			<AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+			<Role schemeIdUri="urn:mpeg:dash:role:2011" value="alternate" />
+			<SegmentTemplate initialization="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(audio_484_eng=Init)" timescale="48000" media="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(audio_484_eng=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="96256" r="2" />
+					<S t="288768" d="95232" />
+					<S t="384000" d="96256" r="2" />
+					<S t="672768" d="95232" />
+					<S t="768000" d="96256" r="2" />
+					<S t="1056768" d="95232" />
+					<S t="1152000" d="96256" r="2" />
+					<S t="1440768" d="95232" />
+					<S t="1536000" d="96256" r="2" />
+					<S t="1824768" d="95232" />
+					<S t="1920000" d="96256" r="2" />
+					<S t="2208768" d="95232" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="dxADIeQBnw.." audioSamplingRate="48000" codecs="mp4a.40.2" bandwidth="64000" />
+		</AdaptationSet>
+	</Period>
+	<Period id="2" duration="PT0H14M18S">
+		<AssetIdentifier schemeIdUri="urn:eidr" value="md:cid:EIDR:10.5240%2f0000-B871-6702-0000-0000-C" />
+		<BaseURL>http://vast-e2esi.cdn.vhmd.upclabs.com/sdash/8163f1e60f1be2b10105e089c58ac419_a9fa5503dc6dc4db065ae50d2507ae78/index.mpd/</BaseURL>
+		<AdaptationSet id="1" contentType="video" group="1" par="16:9" maxWidth="1920" maxHeight="1080" maxFrameRate="25" segmentAlignment="true" bitstreamSwitching="true" mimeType="video/mp4" startWithSAP="1">
+			<ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="MSPR 2.0">
+				<mspr:pro>qgMAAAEAAQCgAzwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AOABqADUAWQAzADYANgBNAGYAMABPAGYAVQBFAEkAQgBNAFAAOQBJAHAAdwA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBBAFAAMQB2ADgAZQB6AGwAbwBOAFEAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBvAGIAbwBkAHIAbQAuAGwAYQBiADUAYQAuAG4AbAAuAGQAbQBkAHMAZABwAC4AYwBvAG0ALwBjAHUAcwB0AG8AbQBwAGwAYQB5AHIAZQBhAGQAeQAvAHIAaQBnAGgAdABzAG0AYQBuAGEAZwBlAHIALgBhAHMAbQB4AD8AQwByAG0ASQBkAD0AbABnAGkAbABhAGIANQBhAGkAdABjACYAYQBtAHAAOwBBAGMAYwBvAHUAbgB0AEkAZAA9AGwAZwBpAGwAYQBiADUAYQBpAHQAYwAmAGEAbQBwADsAYwBvAG4AdABlAG4AdABJAGQAPQA4ADEANgAzAGYAMQBlADYAMABmADEAYgBlADIAYgAxADAAMQAwADUAZQAwADgAOQBjADUAOABhAGMANAAxADkAXwBhADkAZgBhADUANQAwADMAZABjADYAZABjADQAZABiADAANgA1AGEAZQA1ADAAZAAyADUAMAA3AGEAZQA3ADgAPAAvAEwAQQBfAFUAUgBMAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=</mspr:pro>
+				<cenc:pssh>AAADynBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAA6qqAwAAAQABAKADPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgA4AGoANQBZADMANgA2AE0AZgAwAE8AZgBVAEUASQBCAE0AUAA5AEkAcAB3AD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEEAUAAxAHYAOABlAHoAbABvAE4AUQA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAG8AYgBvAGQAcgBtAC4AbABhAGIANQBhAC4AbgBsAC4AZABtAGQAcwBkAHAALgBjAG8AbQAvAGMAdQBzAHQAbwBtAHAAbABhAHkAcgBlAGEAZAB5AC8AcgBpAGcAaAB0AHMAbQBhAG4AYQBnAGUAcgAuAGEAcwBtAHgAPwBDAHIAbQBJAGQAPQBsAGcAaQBsAGEAYgA1AGEAaQB0AGMAJgBhAG0AcAA7AEEAYwBjAG8AdQBuAHQASQBkAD0AbABnAGkAbABhAGIANQBhAGkAdABjACYAYQBtAHAAOwBjAG8AbgB0AGUAbgB0AEkAZAA9ADgAMQA2ADMAZgAxAGUANgAwAGYAMQBiAGUAMgBiADEAMAAxADAANQBlADAAOAA5AGMANQA4AGEAYwA0ADEAOQBfAGEAOQBmAGEANQA1ADAAMwBkAGMANgBkAGMANABkAGIAMAA2ADUAYQBlADUAMABkADIANQAwADcAYQBlADcAOAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</cenc:pssh>
+			</ContentProtection>
+			<SegmentTemplate initialization="S!d2ENU1RCLUhFVkMtREFTSBICVP7...8BFgSf/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(video=Init)" timescale="10000000" media="S!d2ENU1RCLUhFVkMtREFTSBICVP7...8BFgSf/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(video=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="20000000" r="428" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="dxADMWd3GxIknw.." width="720" height="576" sar="1:1" frameRate="25" codecs="hvc1.2.4.l90.90" scanType="progressive" bandwidth="1800039" />
+			<Representation id="dxADMc_PahIknw.." width="1920" height="1080" sar="1:1" frameRate="25" codecs="hvc1.2.4.l123.90" scanType="progressive" bandwidth="7000015" />
+		</AdaptationSet>
+		<AdaptationSet id="2" contentType="video" group="32" par="16:9" maxWidth="1920" maxHeight="1080" maxFrameRate="25" segmentAlignment="true" bitstreamSwitching="true" mimeType="video/mp4" startWithSAP="1" codingDependency="false">
+			<ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="MSPR 2.0">
+				<mspr:pro>qgMAAAEAAQCgAzwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AOABqADUAWQAzADYANgBNAGYAMABPAGYAVQBFAEkAQgBNAFAAOQBJAHAAdwA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBBAFAAMQB2ADgAZQB6AGwAbwBOAFEAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBvAGIAbwBkAHIAbQAuAGwAYQBiADUAYQAuAG4AbAAuAGQAbQBkAHMAZABwAC4AYwBvAG0ALwBjAHUAcwB0AG8AbQBwAGwAYQB5AHIAZQBhAGQAeQAvAHIAaQBnAGgAdABzAG0AYQBuAGEAZwBlAHIALgBhAHMAbQB4AD8AQwByAG0ASQBkAD0AbABnAGkAbABhAGIANQBhAGkAdABjACYAYQBtAHAAOwBBAGMAYwBvAHUAbgB0AEkAZAA9AGwAZwBpAGwAYQBiADUAYQBpAHQAYwAmAGEAbQBwADsAYwBvAG4AdABlAG4AdABJAGQAPQA4ADEANgAzAGYAMQBlADYAMABmADEAYgBlADIAYgAxADAAMQAwADUAZQAwADgAOQBjADUAOABhAGMANAAxADkAXwBhADkAZgBhADUANQAwADMAZABjADYAZABjADQAZABiADAANgA1AGEAZQA1ADAAZAAyADUAMAA3AGEAZQA3ADgAPAAvAEwAQQBfAFUAUgBMAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=</mspr:pro>
+				<cenc:pssh>AAADynBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAA6qqAwAAAQABAKADPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgA4AGoANQBZADMANgA2AE0AZgAwAE8AZgBVAEUASQBCAE0AUAA5AEkAcAB3AD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEEAUAAxAHYAOABlAHoAbABvAE4AUQA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAG8AYgBvAGQAcgBtAC4AbABhAGIANQBhAC4AbgBsAC4AZABtAGQAcwBkAHAALgBjAG8AbQAvAGMAdQBzAHQAbwBtAHAAbABhAHkAcgBlAGEAZAB5AC8AcgBpAGcAaAB0AHMAbQBhAG4AYQBnAGUAcgAuAGEAcwBtAHgAPwBDAHIAbQBJAGQAPQBsAGcAaQBsAGEAYgA1AGEAaQB0AGMAJgBhAG0AcAA7AEEAYwBjAG8AdQBuAHQASQBkAD0AbABnAGkAbABhAGIANQBhAGkAdABjACYAYQBtAHAAOwBjAG8AbgB0AGUAbgB0AEkAZAA9ADgAMQA2ADMAZgAxAGUANgAwAGYAMQBiAGUAMgBiADEAMAAxADAANQBlADAAOAA5AGMANQA4AGEAYwA0ADEAOQBfAGEAOQBmAGEANQA1ADAAMwBkAGMANgBkAGMANABkAGIAMAA2ADUAYQBlADUAMABkADIANQAwADcAYQBlADcAOAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</cenc:pssh>
+			</ContentProtection>
+			<EssentialProperty schemeIdUri="http://dashif.org/guidelines/trickmode" value="1" />
+			<Role schemeIdUri="urn:mpeg:dash:role:2011" value="alternate" />
+			<SegmentTemplate initialization="S!d2ENU1RCLUhFVkMtREFTSBICVP7...8BFgSf/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(trickmode=Init)" timescale="10000000" media="S!d2ENU1RCLUhFVkMtREFTSBICVP7...8BFgSf/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(trickmode=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="20000000" r="428" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="trickmodedxADMWd3GxIknw.." width="720" height="576" sar="1:1" frameRate="1" codecs="hvc1.2.4.l90.90" maxPlayoutRate="25" scanType="progressive" bandwidth="1800039" />
+			<Representation id="trickmodedxADMc_PahIknw.." width="1920" height="1080" sar="1:1" frameRate="1" codecs="hvc1.2.4.l123.90" maxPlayoutRate="25" scanType="progressive" bandwidth="7000015" />
+		</AdaptationSet>
+		<AdaptationSet id="3" contentType="audio" group="2" lang="eng" segmentAlignment="true" bitstreamSwitching="true" mimeType="audio/mp4">
+			<AudioChannelConfiguration schemeIdUri="tag:dolby.com,2014:dash:audio_channel_configuration:2011" value="f801" />
+			<ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="MSPR 2.0">
+				<mspr:pro>qgMAAAEAAQCgAzwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AOABqADUAWQAzADYANgBNAGYAMABPAGYAVQBFAEkAQgBNAFAAOQBJAHAAdwA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBBAFAAMQB2ADgAZQB6AGwAbwBOAFEAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBvAGIAbwBkAHIAbQAuAGwAYQBiADUAYQAuAG4AbAAuAGQAbQBkAHMAZABwAC4AYwBvAG0ALwBjAHUAcwB0AG8AbQBwAGwAYQB5AHIAZQBhAGQAeQAvAHIAaQBnAGgAdABzAG0AYQBuAGEAZwBlAHIALgBhAHMAbQB4AD8AQwByAG0ASQBkAD0AbABnAGkAbABhAGIANQBhAGkAdABjACYAYQBtAHAAOwBBAGMAYwBvAHUAbgB0AEkAZAA9AGwAZwBpAGwAYQBiADUAYQBpAHQAYwAmAGEAbQBwADsAYwBvAG4AdABlAG4AdABJAGQAPQA4ADEANgAzAGYAMQBlADYAMABmADEAYgBlADIAYgAxADAAMQAwADUAZQAwADgAOQBjADUAOABhAGMANAAxADkAXwBhADkAZgBhADUANQAwADMAZABjADYAZABjADQAZABiADAANgA1AGEAZQA1ADAAZAAyADUAMAA3AGEAZQA3ADgAPAAvAEwAQQBfAFUAUgBMAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=</mspr:pro>
+				<cenc:pssh>AAADynBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAA6qqAwAAAQABAKADPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgA4AGoANQBZADMANgA2AE0AZgAwAE8AZgBVAEUASQBCAE0AUAA5AEkAcAB3AD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEEAUAAxAHYAOABlAHoAbABvAE4AUQA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAG8AYgBvAGQAcgBtAC4AbABhAGIANQBhAC4AbgBsAC4AZABtAGQAcwBkAHAALgBjAG8AbQAvAGMAdQBzAHQAbwBtAHAAbABhAHkAcgBlAGEAZAB5AC8AcgBpAGcAaAB0AHMAbQBhAG4AYQBnAGUAcgAuAGEAcwBtAHgAPwBDAHIAbQBJAGQAPQBsAGcAaQBsAGEAYgA1AGEAaQB0AGMAJgBhAG0AcAA7AEEAYwBjAG8AdQBuAHQASQBkAD0AbABnAGkAbABhAGIANQBhAGkAdABjACYAYQBtAHAAOwBjAG8AbgB0AGUAbgB0AEkAZAA9ADgAMQA2ADMAZgAxAGUANgAwAGYAMQBiAGUAMgBiADEAMAAxADAANQBlADAAOAA5AGMANQA4AGEAYwA0ADEAOQBfAGEAOQBmAGEANQA1ADAAMwBkAGMANgBkAGMANABkAGIAMAA2ADUAYQBlADUAMABkADIANQAwADcAYQBlADcAOAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</cenc:pssh>
+			</ContentProtection>
+			<Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+			<SegmentTemplate initialization="S!d2ENU1RCLUhFVkMtREFTSBICVP7...8BFgSf/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(audio_482_eng=Init)" timescale="48000" media="S!d2ENU1RCLUhFVkMtREFTSBICVP7...8BFgSf/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(audio_482_eng=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="96768" />
+					<S t="96768" d="95232" />
+					<S t="192000" d="96768" />
+					<S t="288768" d="95232" />
+					<S t="384000" d="96768" />
+					<S t="480768" d="95232" />
+					<S t="576000" d="96768" />
+					<S t="672768" d="95232" />
+					<S t="768000" d="96768" />
+					<S t="864768" d="95232" />
+					<S t="960000" d="96768" />
+					<S t="1056768" d="95232" />
+					<S t="1152000" d="96768" />
+					<S t="1248768" d="95232" />
+					<S t="1344000" d="96768" />
+					<S t="1440768" d="95232" />
+					<S t="1536000" d="96768" />
+					<S t="1632768" d="95232" />
+					<S t="1728000" d="96768" />
+					<S t="1824768" d="95232" />
+					<S t="1920000" d="96768" />
+					<S t="2016768" d="95232" />
+					<S t="2112000" d="96768" />
+					<S t="2208768" d="95232" />
+					<S t="2304000" d="96768" />
+					<S t="2400768" d="95232" />
+					<S t="2496000" d="96768" />
+					<S t="2592768" d="95232" />
+					<S t="2688000" d="96768" />
+					<S t="2784768" d="95232" />
+					<S t="2880000" d="96768" />
+					<S t="2976768" d="95232" />
+					<S t="3072000" d="96768" />
+					<S t="3168768" d="95232" />
+					<S t="3264000" d="96768" />
+					<S t="3360768" d="95232" />
+					<S t="3456000" d="96768" />
+					<S t="3552768" d="95232" />
+					<S t="3648000" d="96768" />
+					<S t="3744768" d="95232" />
+					<S t="3840000" d="96768" />
+					<S t="3936768" d="95232" />
+					<S t="4032000" d="96768" />
+					<S t="4128768" d="95232" />
+					<S t="4224000" d="96768" />
+					<S t="4320768" d="95232" />
+					<S t="4416000" d="96768" />
+					<S t="4512768" d="95232" />
+					<S t="4608000" d="96768" />
+					<S t="4704768" d="95232" />
+					<S t="4800000" d="96768" />
+					<S t="4896768" d="95232" />
+					<S t="4992000" d="96768" />
+					<S t="5088768" d="95232" />
+					<S t="5184000" d="96768" />
+					<S t="5280768" d="95232" />
+					<S t="5376000" d="96768" />
+					<S t="5472768" d="95232" />
+					<S t="5568000" d="96768" />
+					<S t="5664768" d="95232" />
+					<S t="5760000" d="96768" />
+					<S t="5856768" d="95232" />
+					<S t="5952000" d="96768" />
+					<S t="6048768" d="95232" />
+					<S t="6144000" d="96768" />
+					<S t="6240768" d="95232" />
+					<S t="6336000" d="96768" />
+					<S t="6432768" d="95232" />
+					<S t="6528000" d="96768" />
+					<S t="6624768" d="95232" />
+					<S t="6720000" d="96768" />
+					<S t="6816768" d="95232" />
+					<S t="6912000" d="96768" />
+					<S t="7008768" d="95232" />
+					<S t="7104000" d="96768" />
+					<S t="7200768" d="95232" />
+					<S t="7296000" d="96768" />
+					<S t="7392768" d="95232" />
+					<S t="7488000" d="96768" />
+					<S t="7584768" d="95232" />
+					<S t="7680000" d="96768" />
+					<S t="7776768" d="95232" />
+					<S t="7872000" d="96768" />
+					<S t="7968768" d="95232" />
+					<S t="8064000" d="96768" />
+					<S t="8160768" d="95232" />
+					<S t="8256000" d="96768" />
+					<S t="8352768" d="95232" />
+					<S t="8448000" d="96768" />
+					<S t="8544768" d="95232" />
+					<S t="8640000" d="96768" />
+					<S t="8736768" d="95232" />
+					<S t="8832000" d="96768" />
+					<S t="8928768" d="95232" />
+					<S t="9024000" d="96768" />
+					<S t="9120768" d="95232" />
+					<S t="9216000" d="96768" />
+					<S t="9312768" d="95232" />
+					<S t="9408000" d="96768" />
+					<S t="9504768" d="95232" />
+					<S t="9600000" d="96768" />
+					<S t="9696768" d="95232" />
+					<S t="9792000" d="96768" />
+					<S t="9888768" d="95232" />
+					<S t="9984000" d="96768" />
+					<S t="10080768" d="95232" />
+					<S t="10176000" d="96768" />
+					<S t="10272768" d="95232" />
+					<S t="10368000" d="96768" />
+					<S t="10464768" d="95232" />
+					<S t="10560000" d="96768" />
+					<S t="10656768" d="95232" />
+					<S t="10752000" d="96768" />
+					<S t="10848768" d="95232" />
+					<S t="10944000" d="96768" />
+					<S t="11040768" d="95232" />
+					<S t="11136000" d="96768" />
+					<S t="11232768" d="95232" />
+					<S t="11328000" d="96768" />
+					<S t="11424768" d="95232" />
+					<S t="11520000" d="96768" />
+					<S t="11616768" d="95232" />
+					<S t="11712000" d="96768" />
+					<S t="11808768" d="95232" />
+					<S t="11904000" d="96768" />
+					<S t="12000768" d="95232" />
+					<S t="12096000" d="96768" />
+					<S t="12192768" d="95232" />
+					<S t="12288000" d="96768" />
+					<S t="12384768" d="95232" />
+					<S t="12480000" d="96768" />
+					<S t="12576768" d="95232" />
+					<S t="12672000" d="96768" />
+					<S t="12768768" d="95232" />
+					<S t="12864000" d="96768" />
+					<S t="12960768" d="95232" />
+					<S t="13056000" d="96768" />
+					<S t="13152768" d="95232" />
+					<S t="13248000" d="96768" />
+					<S t="13344768" d="95232" />
+					<S t="13440000" d="96768" />
+					<S t="13536768" d="95232" />
+					<S t="13632000" d="96768" />
+					<S t="13728768" d="95232" />
+					<S t="13824000" d="96768" />
+					<S t="13920768" d="95232" />
+					<S t="14016000" d="96768" />
+					<S t="14112768" d="95232" />
+					<S t="14208000" d="96768" />
+					<S t="14304768" d="95232" />
+					<S t="14400000" d="96768" />
+					<S t="14496768" d="95232" />
+					<S t="14592000" d="96768" />
+					<S t="14688768" d="95232" />
+					<S t="14784000" d="96768" />
+					<S t="14880768" d="95232" />
+					<S t="14976000" d="96768" />
+					<S t="15072768" d="95232" />
+					<S t="15168000" d="96768" />
+					<S t="15264768" d="95232" />
+					<S t="15360000" d="96768" />
+					<S t="15456768" d="95232" />
+					<S t="15552000" d="96768" />
+					<S t="15648768" d="95232" />
+					<S t="15744000" d="96768" />
+					<S t="15840768" d="95232" />
+					<S t="15936000" d="96768" />
+					<S t="16032768" d="95232" />
+					<S t="16128000" d="96768" />
+					<S t="16224768" d="95232" />
+					<S t="16320000" d="96768" />
+					<S t="16416768" d="95232" />
+					<S t="16512000" d="96768" />
+					<S t="16608768" d="95232" />
+					<S t="16704000" d="96768" />
+					<S t="16800768" d="95232" />
+					<S t="16896000" d="96768" />
+					<S t="16992768" d="95232" />
+					<S t="17088000" d="96768" />
+					<S t="17184768" d="95232" />
+					<S t="17280000" d="96768" />
+					<S t="17376768" d="95232" />
+					<S t="17472000" d="96768" />
+					<S t="17568768" d="95232" />
+					<S t="17664000" d="96768" />
+					<S t="17760768" d="95232" />
+					<S t="17856000" d="96768" />
+					<S t="17952768" d="95232" />
+					<S t="18048000" d="96768" />
+					<S t="18144768" d="95232" />
+					<S t="18240000" d="96768" />
+					<S t="18336768" d="95232" />
+					<S t="18432000" d="96768" />
+					<S t="18528768" d="95232" />
+					<S t="18624000" d="96768" />
+					<S t="18720768" d="95232" />
+					<S t="18816000" d="96768" />
+					<S t="18912768" d="95232" />
+					<S t="19008000" d="96768" />
+					<S t="19104768" d="95232" />
+					<S t="19200000" d="96768" />
+					<S t="19296768" d="95232" />
+					<S t="19392000" d="96768" />
+					<S t="19488768" d="95232" />
+					<S t="19584000" d="96768" />
+					<S t="19680768" d="95232" />
+					<S t="19776000" d="96768" />
+					<S t="19872768" d="95232" />
+					<S t="19968000" d="96768" />
+					<S t="20064768" d="95232" />
+					<S t="20160000" d="96768" />
+					<S t="20256768" d="95232" />
+					<S t="20352000" d="96768" />
+					<S t="20448768" d="95232" />
+					<S t="20544000" d="96768" />
+					<S t="20640768" d="95232" />
+					<S t="20736000" d="96768" />
+					<S t="20832768" d="95232" />
+					<S t="20928000" d="96768" />
+					<S t="21024768" d="95232" />
+					<S t="21120000" d="96768" />
+					<S t="21216768" d="95232" />
+					<S t="21312000" d="96768" />
+					<S t="21408768" d="95232" />
+					<S t="21504000" d="96768" />
+					<S t="21600768" d="95232" />
+					<S t="21696000" d="96768" />
+					<S t="21792768" d="95232" />
+					<S t="21888000" d="96768" />
+					<S t="21984768" d="95232" />
+					<S t="22080000" d="96768" />
+					<S t="22176768" d="95232" />
+					<S t="22272000" d="96768" />
+					<S t="22368768" d="95232" />
+					<S t="22464000" d="96768" />
+					<S t="22560768" d="95232" />
+					<S t="22656000" d="96768" />
+					<S t="22752768" d="95232" />
+					<S t="22848000" d="96768" />
+					<S t="22944768" d="95232" />
+					<S t="23040000" d="96768" />
+					<S t="23136768" d="95232" />
+					<S t="23232000" d="96768" />
+					<S t="23328768" d="95232" />
+					<S t="23424000" d="96768" />
+					<S t="23520768" d="95232" />
+					<S t="23616000" d="96768" />
+					<S t="23712768" d="95232" />
+					<S t="23808000" d="96768" />
+					<S t="23904768" d="95232" />
+					<S t="24000000" d="96768" />
+					<S t="24096768" d="95232" />
+					<S t="24192000" d="96768" />
+					<S t="24288768" d="95232" />
+					<S t="24384000" d="96768" />
+					<S t="24480768" d="95232" />
+					<S t="24576000" d="96768" />
+					<S t="24672768" d="95232" />
+					<S t="24768000" d="96768" />
+					<S t="24864768" d="95232" />
+					<S t="24960000" d="96768" />
+					<S t="25056768" d="95232" />
+					<S t="25152000" d="96768" />
+					<S t="25248768" d="95232" />
+					<S t="25344000" d="96768" />
+					<S t="25440768" d="95232" />
+					<S t="25536000" d="96768" />
+					<S t="25632768" d="95232" />
+					<S t="25728000" d="96768" />
+					<S t="25824768" d="95232" />
+					<S t="25920000" d="96768" />
+					<S t="26016768" d="95232" />
+					<S t="26112000" d="96768" />
+					<S t="26208768" d="95232" />
+					<S t="26304000" d="96768" />
+					<S t="26400768" d="95232" />
+					<S t="26496000" d="96768" />
+					<S t="26592768" d="95232" />
+					<S t="26688000" d="96768" />
+					<S t="26784768" d="95232" />
+					<S t="26880000" d="96768" />
+					<S t="26976768" d="95232" />
+					<S t="27072000" d="96768" />
+					<S t="27168768" d="95232" />
+					<S t="27264000" d="96768" />
+					<S t="27360768" d="95232" />
+					<S t="27456000" d="96768" />
+					<S t="27552768" d="95232" />
+					<S t="27648000" d="96768" />
+					<S t="27744768" d="95232" />
+					<S t="27840000" d="96768" />
+					<S t="27936768" d="95232" />
+					<S t="28032000" d="96768" />
+					<S t="28128768" d="95232" />
+					<S t="28224000" d="96768" />
+					<S t="28320768" d="95232" />
+					<S t="28416000" d="96768" />
+					<S t="28512768" d="95232" />
+					<S t="28608000" d="96768" />
+					<S t="28704768" d="95232" />
+					<S t="28800000" d="96768" />
+					<S t="28896768" d="95232" />
+					<S t="28992000" d="96768" />
+					<S t="29088768" d="95232" />
+					<S t="29184000" d="96768" />
+					<S t="29280768" d="95232" />
+					<S t="29376000" d="96768" />
+					<S t="29472768" d="95232" />
+					<S t="29568000" d="96768" />
+					<S t="29664768" d="95232" />
+					<S t="29760000" d="96768" />
+					<S t="29856768" d="95232" />
+					<S t="29952000" d="96768" />
+					<S t="30048768" d="95232" />
+					<S t="30144000" d="96768" />
+					<S t="30240768" d="95232" />
+					<S t="30336000" d="96768" />
+					<S t="30432768" d="95232" />
+					<S t="30528000" d="96768" />
+					<S t="30624768" d="95232" />
+					<S t="30720000" d="96768" />
+					<S t="30816768" d="95232" />
+					<S t="30912000" d="96768" />
+					<S t="31008768" d="95232" />
+					<S t="31104000" d="96768" />
+					<S t="31200768" d="95232" />
+					<S t="31296000" d="96768" />
+					<S t="31392768" d="95232" />
+					<S t="31488000" d="96768" />
+					<S t="31584768" d="95232" />
+					<S t="31680000" d="96768" />
+					<S t="31776768" d="95232" />
+					<S t="31872000" d="96768" />
+					<S t="31968768" d="95232" />
+					<S t="32064000" d="96768" />
+					<S t="32160768" d="95232" />
+					<S t="32256000" d="96768" />
+					<S t="32352768" d="95232" />
+					<S t="32448000" d="96768" />
+					<S t="32544768" d="95232" />
+					<S t="32640000" d="96768" />
+					<S t="32736768" d="95232" />
+					<S t="32832000" d="96768" />
+					<S t="32928768" d="95232" />
+					<S t="33024000" d="96768" />
+					<S t="33120768" d="95232" />
+					<S t="33216000" d="96768" />
+					<S t="33312768" d="95232" />
+					<S t="33408000" d="96768" />
+					<S t="33504768" d="95232" />
+					<S t="33600000" d="96768" />
+					<S t="33696768" d="95232" />
+					<S t="33792000" d="96768" />
+					<S t="33888768" d="95232" />
+					<S t="33984000" d="96768" />
+					<S t="34080768" d="95232" />
+					<S t="34176000" d="96768" />
+					<S t="34272768" d="95232" />
+					<S t="34368000" d="96768" />
+					<S t="34464768" d="95232" />
+					<S t="34560000" d="96768" />
+					<S t="34656768" d="95232" />
+					<S t="34752000" d="96768" />
+					<S t="34848768" d="95232" />
+					<S t="34944000" d="96768" />
+					<S t="35040768" d="95232" />
+					<S t="35136000" d="96768" />
+					<S t="35232768" d="95232" />
+					<S t="35328000" d="96768" />
+					<S t="35424768" d="95232" />
+					<S t="35520000" d="96768" />
+					<S t="35616768" d="95232" />
+					<S t="35712000" d="96768" />
+					<S t="35808768" d="95232" />
+					<S t="35904000" d="96768" />
+					<S t="36000768" d="95232" />
+					<S t="36096000" d="96768" />
+					<S t="36192768" d="95232" />
+					<S t="36288000" d="96768" />
+					<S t="36384768" d="95232" />
+					<S t="36480000" d="96768" />
+					<S t="36576768" d="95232" />
+					<S t="36672000" d="96768" />
+					<S t="36768768" d="95232" />
+					<S t="36864000" d="96768" />
+					<S t="36960768" d="95232" />
+					<S t="37056000" d="96768" />
+					<S t="37152768" d="95232" />
+					<S t="37248000" d="96768" />
+					<S t="37344768" d="95232" />
+					<S t="37440000" d="96768" />
+					<S t="37536768" d="95232" />
+					<S t="37632000" d="96768" />
+					<S t="37728768" d="95232" />
+					<S t="37824000" d="96768" />
+					<S t="37920768" d="95232" />
+					<S t="38016000" d="96768" />
+					<S t="38112768" d="95232" />
+					<S t="38208000" d="96768" />
+					<S t="38304768" d="95232" />
+					<S t="38400000" d="96768" />
+					<S t="38496768" d="95232" />
+					<S t="38592000" d="96768" />
+					<S t="38688768" d="95232" />
+					<S t="38784000" d="96768" />
+					<S t="38880768" d="95232" />
+					<S t="38976000" d="96768" />
+					<S t="39072768" d="95232" />
+					<S t="39168000" d="96768" />
+					<S t="39264768" d="95232" />
+					<S t="39360000" d="96768" />
+					<S t="39456768" d="95232" />
+					<S t="39552000" d="96768" />
+					<S t="39648768" d="95232" />
+					<S t="39744000" d="96768" />
+					<S t="39840768" d="95232" />
+					<S t="39936000" d="96768" />
+					<S t="40032768" d="95232" />
+					<S t="40128000" d="96768" />
+					<S t="40224768" d="95232" />
+					<S t="40320000" d="96768" />
+					<S t="40416768" d="95232" />
+					<S t="40512000" d="96768" />
+					<S t="40608768" d="95232" />
+					<S t="40704000" d="96768" />
+					<S t="40800768" d="95232" />
+					<S t="40896000" d="96768" />
+					<S t="40992768" d="95232" />
+					<S t="41088000" d="96768" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="dxADIeIBnw.." audioSamplingRate="48000" codecs="ac-3" bandwidth="384000" />
+		</AdaptationSet>
+	</Period>
+	<Period id="3" duration="PT0H0M48S">
+		<AssetIdentifier schemeIdUri="urn:eidr" value="md:cid:EIDR:10.5240%2f0000-0751-6F0E-0000-0000-C" />
+		<BaseURL>http://vast-e2esi.cdn.vhmd.upclabs.com/sdash/advert_195200eaaa0af749b3eead3f04057946_49d1193eaa0705568513400e602aa23c/index.mpd/</BaseURL>
+		<EventStream schemeIdUri="urn:LGAd:adEvent:2015" timescale="10000000">
+			<Event id="513" presentationTime="0">PFRyYWNraW5nRXZlbnRzPjxUcmFja2luZyBldmVudD0ic3RhcnQiPmh0dHA6Ly8xMC42My42OC4xODY6ODA4MC90cmFja2luZy9zdGFydD90aW1lc3RhbXA9W1RJTUVTVEFNUF0mYW1wO2NhY2hlYnVzdGluZz1bQ0FDSEVCVVNUSU5HXSZhbXA7bWVkaXBsYXloZWFkPVtNRURJQVBMQVlIRUFEXSZhbXA7YnJlYWtwb3NpdGlvbj1bQlJFQUtQT1NJVElPTl0mYW1wO2FkY291bnQ9W0FEQ09VTlRdJmFtcDt1bml2ZXJzYWxhZGlkPVtVTklWRVJTQUxBRElEXSZhbXA7b3RoZXI9W09USEVSXTwvVHJhY2tpbmc+PFRyYWNraW5nIGV2ZW50PSJmaXJzdFF1YXJ0aWxlIj5odHRwOi8vMTAuNjMuNjguMTg2OjgwODAvdHJhY2tpbmcvZmlyc3RRdWFydGlsZT90aW1lc3RhbXA9W1RJTUVTVEFNUF0mYW1wO2NhY2hlYnVzdGluZz1bQ0FDSEVCVVNUSU5HXSZhbXA7bWVkaXBsYXloZWFkPVtNRURJQVBMQVlIRUFEXSZhbXA7YnJlYWtwb3NpdGlvbj1bQlJFQUtQT1NJVElPTl0mYW1wO2FkY291bnQ9W0FEQ09VTlRdJmFtcDt1bml2ZXJzYWxhZGlkPVtVTklWRVJTQUxBRElEXSZhbXA7b3RoZXI9W09USEVSXTwvVHJhY2tpbmc+PFRyYWNraW5nIGV2ZW50PSJtaWRwb2ludCI+aHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL3RyYWNraW5nL21pZHBvaW50P3RpbWVzdGFtcD1bVElNRVNUQU1QXSZhbXA7Y2FjaGVidXN0aW5nPVtDQUNIRUJVU1RJTkddJmFtcDttZWRpcGxheWhlYWQ9W01FRElBUExBWUhFQURdJmFtcDticmVha3Bvc2l0aW9uPVtCUkVBS1BPU0lUSU9OXSZhbXA7YWRjb3VudD1bQURDT1VOVF0mYW1wO3VuaXZlcnNhbGFkaWQ9W1VOSVZFUlNBTEFESURdJmFtcDtvdGhlcj1bT1RIRVJdPC9UcmFja2luZz48VHJhY2tpbmcgZXZlbnQ9InRoaXJkUXVhcnRpbGUiPmh0dHA6Ly8xMC42My42OC4xODY6ODA4MC90cmFja2luZy90aGlyZFF1YXJ0aWxlP3RpbWVzdGFtcD1bVElNRVNUQU1QXSZhbXA7Y2FjaGVidXN0aW5nPVtDQUNIRUJVU1RJTkddJmFtcDttZWRpcGxheWhlYWQ9W01FRElBUExBWUhFQURdJmFtcDticmVha3Bvc2l0aW9uPVtCUkVBS1BPU0lUSU9OXSZhbXA7YWRjb3VudD1bQURDT1VOVF0mYW1wO3VuaXZlcnNhbGFkaWQ9W1VOSVZFUlNBTEFESURdJmFtcDtvdGhlcj1bT1RIRVJdPC9UcmFja2luZz48VHJhY2tpbmcgZXZlbnQ9ImNvbXBsZXRlIj5odHRwOi8vMTAuNjMuNjguMTg2OjgwODAvdHJhY2tpbmcvY29tcGxldGU/dGltZXN0YW1wPVtUSU1FU1RBTVBdJmFtcDtjYWNoZWJ1c3Rpbmc9W0NBQ0hFQlVTVElOR10mYW1wO21lZGlwbGF5aGVhZD1bTUVESUFQTEFZSEVBRF0mYW1wO2JyZWFrcG9zaXRpb249W0JSRUFLUE9TSVRJT05dJmFtcDthZGNvdW50PVtBRENPVU5UXSZhbXA7dW5pdmVyc2FsYWRpZD1bVU5JVkVSU0FMQURJRF0mYW1wO290aGVyPVtPVEhFUl08L1RyYWNraW5nPjxUcmFja2luZyBldmVudD0icHJvZ3Jlc3MiIG9mZnNldD0iMDA6MDA6MTAiPmh0dHA6Ly8xMC42My42OC4xODY6ODA4MC90cmFja2luZy9wcm9ncmVzcy0xMD90aW1lc3RhbXA9W1RJTUVTVEFNUF0mYW1wO2NhY2hlYnVzdGluZz1bQ0FDSEVCVVNUSU5HXSZhbXA7bWVkaXBsYXloZWFkPVtNRURJQVBMQVlIRUFEXSZhbXA7YnJlYWtwb3NpdGlvbj1bQlJFQUtQT1NJVElPTl0mYW1wO2FkY291bnQ9W0FEQ09VTlRdJmFtcDt1bml2ZXJzYWxhZGlkPVtVTklWRVJTQUxBRElEXSZhbXA7b3RoZXI9W09USEVSXTwvVHJhY2tpbmc+PFRyYWNraW5nIGV2ZW50PSJwbGF5ZXJDb2xsYXBzZSI+aHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL3RyYWNraW5nL3BsYXllckNvbGxhcHNlP3RpbWVzdGFtcD1bVElNRVNUQU1QXSZhbXA7Y2FjaGVidXN0aW5nPVtDQUNIRUJVU1RJTkddJmFtcDttZWRpcGxheWhlYWQ9W01FRElBUExBWUhFQURdJmFtcDticmVha3Bvc2l0aW9uPVtCUkVBS1BPU0lUSU9OXSZhbXA7YWRjb3VudD1bQURDT1VOVF0mYW1wO3VuaXZlcnNhbGFkaWQ9W1VOSVZFUlNBTEFESURdJmFtcDtvdGhlcj1bT1RIRVJdPC9UcmFja2luZz48VHJhY2tpbmcgZXZlbnQ9InBsYXllckV4cGFuZCI+aHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL3RyYWNraW5nL3BsYXllckV4cGFuZD90aW1lc3RhbXA9W1RJTUVTVEFNUF0mYW1wO2NhY2hlYnVzdGluZz1bQ0FDSEVCVVNUSU5HXSZhbXA7bWVkaXBsYXloZWFkPVtNRURJQVBMQVlIRUFEXSZhbXA7YnJlYWtwb3NpdGlvbj1bQlJFQUtQT1NJVElPTl0mYW1wO2FkY291bnQ9W0FEQ09VTlRdJmFtcDt1bml2ZXJzYWxhZGlkPVtVTklWRVJTQUxBRElEXSZhbXA7b3RoZXI9W09USEVSXTwvVHJhY2tpbmc+PFRyYWNraW5nIGV2ZW50PSJmdWxsc2NyZWVuIj5odHRwOi8vMTAuNjMuNjguMTg2OjgwODAvdHJhY2tpbmcvZnVsbHNjcmVlbi8xP3RpbWVzdGFtcD1bVElNRVNUQU1QXSZhbXA7Y2FjaGVidXN0aW5nPVtDQUNIRUJVU1RJTkddJmFtcDttZWRpcGxheWhlYWQ9W01FRElBUExBWUhFQURdJmFtcDticmVha3Bvc2l0aW9uPVtCUkVBS1BPU0lUSU9OXSZhbXA7YWRjb3VudD1bQURDT1VOVF0mYW1wO3VuaXZlcnNhbGFkaWQ9W1VOSVZFUlNBTEFESURdJmFtcDtvdGhlcj1bT1RIRVJdPC9UcmFja2luZz48VHJhY2tpbmcgZXZlbnQ9InJlc3VtZSI+aHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL3RyYWNraW5nL3Jlc3VtZT90aW1lc3RhbXA9W1RJTUVTVEFNUF0mYW1wO2NhY2hlYnVzdGluZz1bQ0FDSEVCVVNUSU5HXSZhbXA7bWVkaXBsYXloZWFkPVtNRURJQVBMQVlIRUFEXSZhbXA7YnJlYWtwb3NpdGlvbj1bQlJFQUtQT1NJVElPTl0mYW1wO2FkY291bnQ9W0FEQ09VTlRdJmFtcDt1bml2ZXJzYWxhZGlkPVtVTklWRVJTQUxBRElEXSZhbXA7b3RoZXI9W09USEVSXTwvVHJhY2tpbmc+PFRyYWNraW5nIGV2ZW50PSJwYXVzZSI+aHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL3RyYWNraW5nL3BhdXNlP3RpbWVzdGFtcD1bVElNRVNUQU1QXSZhbXA7Y2FjaGVidXN0aW5nPVtDQUNIRUJVU1RJTkddJmFtcDttZWRpcGxheWhlYWQ9W01FRElBUExBWUhFQURdJmFtcDticmVha3Bvc2l0aW9uPVtCUkVBS1BPU0lUSU9OXSZhbXA7YWRjb3VudD1bQURDT1VOVF0mYW1wO3VuaXZlcnNhbGFkaWQ9W1VOSVZFUlNBTEFESURdJmFtcDtvdGhlcj1bT1RIRVJdPC9UcmFja2luZz48VHJhY2tpbmcgZXZlbnQ9InNraXAiPmh0dHA6Ly8xMC42My42OC4xODY6ODA4MC90cmFja2luZy9za2lwP3RpbWVzdGFtcD1bVElNRVNUQU1QXSZhbXA7Y2FjaGVidXN0aW5nPVtDQUNIRUJVU1RJTkddJmFtcDttZWRpcGxheWhlYWQ9W01FRElBUExBWUhFQURdJmFtcDticmVha3Bvc2l0aW9uPVtCUkVBS1BPU0lUSU9OXSZhbXA7YWRjb3VudD1bQURDT1VOVF0mYW1wO3VuaXZlcnNhbGFkaWQ9W1VOSVZFUlNBTEFESURdJmFtcDtvdGhlcj1bT1RIRVJdPC9UcmFja2luZz48VHJhY2tpbmcgZXZlbnQ9InJld2luZCI+aHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL3RyYWNraW5nL3Jld2luZD90aW1lc3RhbXA9W1RJTUVTVEFNUF0mYW1wO2NhY2hlYnVzdGluZz1bQ0FDSEVCVVNUSU5HXSZhbXA7bWVkaXBsYXloZWFkPVtNRURJQVBMQVlIRUFEXSZhbXA7YnJlYWtwb3NpdGlvbj1bQlJFQUtQT1NJVElPTl0mYW1wO2FkY291bnQ9W0FEQ09VTlRdJmFtcDt1bml2ZXJzYWxhZGlkPVtVTklWRVJTQUxBRElEXSZhbXA7b3RoZXI9W09USEVSXTwvVHJhY2tpbmc+PC9UcmFja2luZ0V2ZW50cz48RXJyb3I+PCFbQ0RBVEFbaHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL2Vycm9yXV0+PC9FcnJvcj48SW1wcmVzc2lvbiBpZD0iMSI+PCFbQ0RBVEFbaHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL2ltcHJlc3Npb25dXT48L0ltcHJlc3Npb24+PFZpZGVvQ2xpY2tzPjxDbGlja1Rocm91Z2g+PCFbQ0RBVEFbaHR0cDovL0NsaWNrVGhyb3VnaF1dPjwvQ2xpY2tUaHJvdWdoPjxDbGlja1RyYWNraW5nPjwhW0NEQVRBW2h0dHA6Ly9DbGlja1RyYWNraW5nXV0+PC9DbGlja1RyYWNraW5nPjxDdXN0b21DbGljaz48IVtDREFUQVtodHRwOi8vQ3VzdG9tQ2xpY2tdXT48L0N1c3RvbUNsaWNrPjwvVmlkZW9DbGlja3M+PEFkVmVyaWZpY2F0aW9ucz48VmVyaWZpY2F0aW9uPjxKYXZhU2NyaXB0UmVzb3VyY2U+PCFbQ0RBVEFbaHR0cDovL2phdmFzY3JpcHQvcmVzb3VyY2VdXT48L0phdmFTY3JpcHRSZXNvdXJjZT48L1ZlcmlmaWNhdGlvbj48L0FkVmVyaWZpY2F0aW9ucz48VW5pdmVyc2FsQWRJZCBpZFJlZ2lzdHJ5PSJYWFhYIj5ZWVlZPC9Vbml2ZXJzYWxBZElkPjxNZWRpYUZpbGUgZGVsaXZlcnk9InN0cmVhbWluZyIgaGVpZ2h0PSIwIiB3aWR0aD0iMCIgdHlwZT0iYXBwbGljYXRpb24vZGFzaCt4bWwiPjwhW0NEQVRBW2h0dHA6Ly92YXN0LWUyZXNpLmNkbi52aG1kLnVwY2xhYnMuY29tL3NkYXNoL2FkdmVydF8xOTUyMDBlYWFhMGFmNzQ5YjNlZWFkM2YwNDA1Nzk0Nl80OWQxMTkzZWFhMDcwNTU2ODUxMzQwMGU2MDJhYTIzYy9pbmRleC5tcGQvTWFuaWZlc3Q/ZGV2aWNlPUFWQURdXT48L01lZGlhRmlsZT4KCg==</Event>
+		</EventStream>
+		<AdaptationSet id="1" contentType="video" group="1" par="16:9" maxWidth="1920" maxHeight="1080" maxFrameRate="25" segmentAlignment="true" bitstreamSwitching="true" mimeType="video/mp4" startWithSAP="1">
+			<SegmentTemplate initialization="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(video=Init)" timescale="10000000" media="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(video=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="20000000" r="23" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="dxADMSkdBhIbnw.." width="384" height="216" sar="1:1" frameRate="25" codecs="avc1.4d400d" scanType="progressive" bandwidth="400681" />
+			<Representation id="dxADMW-xChIbnw.." width="512" height="288" sar="1:1" frameRate="25" codecs="avc1.4d4015" scanType="progressive" bandwidth="700783" />
+			<Representation id="dxADMaDMEBIbnw.." width="704" height="396" sar="1:1" frameRate="25" codecs="avc1.4d401e" scanType="progressive" bandwidth="1100960" />
+			<Representation id="dxADMYFuGBIbnw.." width="1024" height="576" sar="1:1" frameRate="25" codecs="avc1.4d401f" scanType="progressive" bandwidth="1601153" />
+			<Representation id="dxADMd6-KhIbnw.." width="1280" height="720" sar="1:1" frameRate="25" codecs="avc1.4d401f" scanType="progressive" bandwidth="2801374" />
+			<Representation id="dxADMbavRBIbnw.." width="1920" height="1080" sar="1:1" frameRate="25" codecs="avc1.4d4028" scanType="progressive" bandwidth="4501430" />
+		</AdaptationSet>
+		<AdaptationSet id="2" contentType="video" group="1" par="16:9" maxWidth="1920" maxHeight="1080" maxFrameRate="25" segmentAlignment="true" bitstreamSwitching="true" mimeType="video/mp4" startWithSAP="1">
+			<SegmentTemplate initialization="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(video=Init)" timescale="10000000" media="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(video=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="20000000" r="23" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="dxADMV6_DRIknw.." width="720" height="576" sar="1:1" frameRate="25" codecs="hvc1.2.4.l90.b0" scanType="progressive" bandwidth="900958" />
+			<Representation id="dxADMQF8GxIknw.." width="720" height="576" sar="1:1" frameRate="25" codecs="hvc1.2.4.l90.b0" scanType="progressive" bandwidth="1801217" />
+			<Representation id="dxADMcvVahIknw.." width="1920" height="1080" sar="1:1" frameRate="25" codecs="hvc1.2.4.l120.b0" scanType="progressive" bandwidth="7001547" />
+		</AdaptationSet>
+		<AdaptationSet id="3" contentType="video" group="32" par="16:9" maxWidth="1920" maxHeight="1080" maxFrameRate="25" segmentAlignment="true" bitstreamSwitching="true" mimeType="video/mp4" startWithSAP="1" codingDependency="false">
+			<EssentialProperty schemeIdUri="http://dashif.org/guidelines/trickmode" value="1" />
+			<Role schemeIdUri="urn:mpeg:dash:role:2011" value="alternate" />
+			<SegmentTemplate initialization="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(trickmode=Init)" timescale="10000000" media="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(trickmode=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="20000000" r="23" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="trickmodedxADMSkdBhIbnw.." width="384" height="216" sar="1:1" frameRate="1" codecs="avc1.4d400d" maxPlayoutRate="25" scanType="progressive" bandwidth="400681" />
+			<Representation id="trickmodedxADMW-xChIbnw.." width="512" height="288" sar="1:1" frameRate="1" codecs="avc1.4d4015" maxPlayoutRate="25" scanType="progressive" bandwidth="700783" />
+			<Representation id="trickmodedxADMaDMEBIbnw.." width="704" height="396" sar="1:1" frameRate="1" codecs="avc1.4d401e" maxPlayoutRate="25" scanType="progressive" bandwidth="1100960" />
+			<Representation id="trickmodedxADMYFuGBIbnw.." width="1024" height="576" sar="1:1" frameRate="1" codecs="avc1.4d401f" maxPlayoutRate="25" scanType="progressive" bandwidth="1601153" />
+			<Representation id="trickmodedxADMd6-KhIbnw.." width="1280" height="720" sar="1:1" frameRate="1" codecs="avc1.4d401f" maxPlayoutRate="25" scanType="progressive" bandwidth="2801374" />
+			<Representation id="trickmodedxADMbavRBIbnw.." width="1920" height="1080" sar="1:1" frameRate="1" codecs="avc1.4d4028" maxPlayoutRate="25" scanType="progressive" bandwidth="4501430" />
+		</AdaptationSet>
+		<AdaptationSet id="4" contentType="video" group="32" par="16:9" maxWidth="1920" maxHeight="1080" maxFrameRate="25" segmentAlignment="true" bitstreamSwitching="true" mimeType="video/mp4" startWithSAP="1" codingDependency="false">
+			<EssentialProperty schemeIdUri="http://dashif.org/guidelines/trickmode" value="2" />
+			<Role schemeIdUri="urn:mpeg:dash:role:2011" value="alternate" />
+			<SegmentTemplate initialization="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(trickmode=Init)" timescale="10000000" media="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(trickmode=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="20000000" r="23" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="trickmodedxADMV6_DRIknw.." width="720" height="576" sar="1:1" frameRate="1" codecs="hvc1.2.4.l90.b0" maxPlayoutRate="25" scanType="progressive" bandwidth="900958" />
+			<Representation id="trickmodedxADMQF8GxIknw.." width="720" height="576" sar="1:1" frameRate="1" codecs="hvc1.2.4.l90.b0" maxPlayoutRate="25" scanType="progressive" bandwidth="1801217" />
+			<Representation id="trickmodedxADMcvVahIknw.." width="1920" height="1080" sar="1:1" frameRate="1" codecs="hvc1.2.4.l120.b0" maxPlayoutRate="25" scanType="progressive" bandwidth="7001547" />
+		</AdaptationSet>
+		<AdaptationSet id="5" contentType="audio" group="2" lang="eng" segmentAlignment="true" bitstreamSwitching="true" mimeType="audio/mp4">
+			<AudioChannelConfiguration schemeIdUri="tag:dolby.com,2014:dash:audio_channel_configuration:2011" value="f801" />
+			<Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+			<SegmentTemplate initialization="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(audio_482_eng=Init)" timescale="48000" media="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(audio_482_eng=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="96768" />
+					<S t="96768" d="95232" />
+					<S t="192000" d="96768" />
+					<S t="288768" d="95232" />
+					<S t="384000" d="96768" />
+					<S t="480768" d="95232" />
+					<S t="576000" d="96768" />
+					<S t="672768" d="95232" />
+					<S t="768000" d="96768" />
+					<S t="864768" d="95232" />
+					<S t="960000" d="96768" />
+					<S t="1056768" d="95232" />
+					<S t="1152000" d="96768" />
+					<S t="1248768" d="95232" />
+					<S t="1344000" d="96768" />
+					<S t="1440768" d="95232" />
+					<S t="1536000" d="96768" />
+					<S t="1632768" d="95232" />
+					<S t="1728000" d="96768" />
+					<S t="1824768" d="95232" />
+					<S t="1920000" d="96768" />
+					<S t="2016768" d="95232" />
+					<S t="2112000" d="96768" />
+					<S t="2208768" d="95232" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="dxADIeIBnw.." audioSamplingRate="48000" codecs="ac-3" bandwidth="384000" />
+		</AdaptationSet>
+		<AdaptationSet id="6" contentType="audio" group="2" lang="eng" segmentAlignment="true" bitstreamSwitching="true" mimeType="audio/mp4">
+			<AudioChannelConfiguration schemeIdUri="tag:dolby.com,2014:dash:audio_channel_configuration:2011" value="a000" />
+			<Role schemeIdUri="urn:mpeg:dash:role:2011" value="alternate" />
+			<SegmentTemplate initialization="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(audio_483_eng=Init)" timescale="48000" media="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(audio_483_eng=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="96768" />
+					<S t="96768" d="95232" />
+					<S t="192000" d="96768" />
+					<S t="288768" d="95232" />
+					<S t="384000" d="96768" />
+					<S t="480768" d="95232" />
+					<S t="576000" d="96768" />
+					<S t="672768" d="95232" />
+					<S t="768000" d="96768" />
+					<S t="864768" d="95232" />
+					<S t="960000" d="96768" />
+					<S t="1056768" d="95232" />
+					<S t="1152000" d="96768" />
+					<S t="1248768" d="95232" />
+					<S t="1344000" d="96768" />
+					<S t="1440768" d="95232" />
+					<S t="1536000" d="96768" />
+					<S t="1632768" d="95232" />
+					<S t="1728000" d="96768" />
+					<S t="1824768" d="95232" />
+					<S t="1920000" d="96768" />
+					<S t="2016768" d="95232" />
+					<S t="2112000" d="96768" />
+					<S t="2208768" d="95232" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="dxADIeMBnw.." audioSamplingRate="48000" codecs="ac-3" bandwidth="192000" />
+		</AdaptationSet>
+		<AdaptationSet id="7" contentType="audio" group="2" lang="eng" segmentAlignment="true" bitstreamSwitching="true" mimeType="audio/mp4">
+			<AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+			<Role schemeIdUri="urn:mpeg:dash:role:2011" value="alternate" />
+			<SegmentTemplate initialization="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(audio_484_eng=Init)" timescale="48000" media="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(audio_484_eng=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="96256" r="2" />
+					<S t="288768" d="95232" />
+					<S t="384000" d="96256" r="2" />
+					<S t="672768" d="95232" />
+					<S t="768000" d="96256" r="2" />
+					<S t="1056768" d="95232" />
+					<S t="1152000" d="96256" r="2" />
+					<S t="1440768" d="95232" />
+					<S t="1536000" d="96256" r="2" />
+					<S t="1824768" d="95232" />
+					<S t="1920000" d="96256" r="2" />
+					<S t="2208768" d="95232" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="dxADIeQBnw.." audioSamplingRate="48000" codecs="mp4a.40.2" bandwidth="64000" />
+		</AdaptationSet>
+	</Period>
+	<Period id="4" duration="PT0H8M0S">
+		<AssetIdentifier schemeIdUri="urn:eidr" value="md:cid:EIDR:10.5240%2f0000-B871-6702-0000-0000-C" />
+		<BaseURL>http://vast-e2esi.cdn.vhmd.upclabs.com/sdash/8163f1e60f1be2b10105e089c58ac419_a9fa5503dc6dc4db065ae50d2507ae78/index.mpd/</BaseURL>
+		<AdaptationSet id="1" contentType="video" group="1" par="16:9" maxWidth="1920" maxHeight="1080" maxFrameRate="25" segmentAlignment="true" bitstreamSwitching="true" mimeType="video/mp4" startWithSAP="1">
+			<ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="MSPR 2.0">
+				<mspr:pro>qgMAAAEAAQCgAzwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AOABqADUAWQAzADYANgBNAGYAMABPAGYAVQBFAEkAQgBNAFAAOQBJAHAAdwA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBBAFAAMQB2ADgAZQB6AGwAbwBOAFEAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBvAGIAbwBkAHIAbQAuAGwAYQBiADUAYQAuAG4AbAAuAGQAbQBkAHMAZABwAC4AYwBvAG0ALwBjAHUAcwB0AG8AbQBwAGwAYQB5AHIAZQBhAGQAeQAvAHIAaQBnAGgAdABzAG0AYQBuAGEAZwBlAHIALgBhAHMAbQB4AD8AQwByAG0ASQBkAD0AbABnAGkAbABhAGIANQBhAGkAdABjACYAYQBtAHAAOwBBAGMAYwBvAHUAbgB0AEkAZAA9AGwAZwBpAGwAYQBiADUAYQBpAHQAYwAmAGEAbQBwADsAYwBvAG4AdABlAG4AdABJAGQAPQA4ADEANgAzAGYAMQBlADYAMABmADEAYgBlADIAYgAxADAAMQAwADUAZQAwADgAOQBjADUAOABhAGMANAAxADkAXwBhADkAZgBhADUANQAwADMAZABjADYAZABjADQAZABiADAANgA1AGEAZQA1ADAAZAAyADUAMAA3AGEAZQA3ADgAPAAvAEwAQQBfAFUAUgBMAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=</mspr:pro>
+				<cenc:pssh>AAADynBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAA6qqAwAAAQABAKADPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgA4AGoANQBZADMANgA2AE0AZgAwAE8AZgBVAEUASQBCAE0AUAA5AEkAcAB3AD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEEAUAAxAHYAOABlAHoAbABvAE4AUQA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAG8AYgBvAGQAcgBtAC4AbABhAGIANQBhAC4AbgBsAC4AZABtAGQAcwBkAHAALgBjAG8AbQAvAGMAdQBzAHQAbwBtAHAAbABhAHkAcgBlAGEAZAB5AC8AcgBpAGcAaAB0AHMAbQBhAG4AYQBnAGUAcgAuAGEAcwBtAHgAPwBDAHIAbQBJAGQAPQBsAGcAaQBsAGEAYgA1AGEAaQB0AGMAJgBhAG0AcAA7AEEAYwBjAG8AdQBuAHQASQBkAD0AbABnAGkAbABhAGIANQBhAGkAdABjACYAYQBtAHAAOwBjAG8AbgB0AGUAbgB0AEkAZAA9ADgAMQA2ADMAZgAxAGUANgAwAGYAMQBiAGUAMgBiADEAMAAxADAANQBlADAAOAA5AGMANQA4AGEAYwA0ADEAOQBfAGEAOQBmAGEANQA1ADAAMwBkAGMANgBkAGMANABkAGIAMAA2ADUAYQBlADUAMABkADIANQAwADcAYQBlADcAOAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</cenc:pssh>
+			</ContentProtection>
+			<SegmentTemplate initialization="S!d2ENU1RCLUhFVkMtREFTSBICVP7...8BFgSf/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(video=Init)" timescale="10000000" presentationTimeOffset="8580000000" media="S!d2ENU1RCLUhFVkMtREFTSBICVP7...8BFgSf/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(video=$Time$)">
+				<SegmentTimeline>
+					<S t="8580000000" d="20000000" r="239" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="dxADMWd3GxIknw.." width="720" height="576" sar="1:1" frameRate="25" codecs="hvc1.2.4.l90.90" scanType="progressive" bandwidth="1800039" />
+			<Representation id="dxADMc_PahIknw.." width="1920" height="1080" sar="1:1" frameRate="25" codecs="hvc1.2.4.l123.90" scanType="progressive" bandwidth="7000015" />
+		</AdaptationSet>
+		<AdaptationSet id="2" contentType="video" group="32" par="16:9" maxWidth="1920" maxHeight="1080" maxFrameRate="25" segmentAlignment="true" bitstreamSwitching="true" mimeType="video/mp4" startWithSAP="1" codingDependency="false">
+			<ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="MSPR 2.0">
+				<mspr:pro>qgMAAAEAAQCgAzwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AOABqADUAWQAzADYANgBNAGYAMABPAGYAVQBFAEkAQgBNAFAAOQBJAHAAdwA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBBAFAAMQB2ADgAZQB6AGwAbwBOAFEAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBvAGIAbwBkAHIAbQAuAGwAYQBiADUAYQAuAG4AbAAuAGQAbQBkAHMAZABwAC4AYwBvAG0ALwBjAHUAcwB0AG8AbQBwAGwAYQB5AHIAZQBhAGQAeQAvAHIAaQBnAGgAdABzAG0AYQBuAGEAZwBlAHIALgBhAHMAbQB4AD8AQwByAG0ASQBkAD0AbABnAGkAbABhAGIANQBhAGkAdABjACYAYQBtAHAAOwBBAGMAYwBvAHUAbgB0AEkAZAA9AGwAZwBpAGwAYQBiADUAYQBpAHQAYwAmAGEAbQBwADsAYwBvAG4AdABlAG4AdABJAGQAPQA4ADEANgAzAGYAMQBlADYAMABmADEAYgBlADIAYgAxADAAMQAwADUAZQAwADgAOQBjADUAOABhAGMANAAxADkAXwBhADkAZgBhADUANQAwADMAZABjADYAZABjADQAZABiADAANgA1AGEAZQA1ADAAZAAyADUAMAA3AGEAZQA3ADgAPAAvAEwAQQBfAFUAUgBMAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=</mspr:pro>
+				<cenc:pssh>AAADynBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAA6qqAwAAAQABAKADPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgA4AGoANQBZADMANgA2AE0AZgAwAE8AZgBVAEUASQBCAE0AUAA5AEkAcAB3AD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEEAUAAxAHYAOABlAHoAbABvAE4AUQA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAG8AYgBvAGQAcgBtAC4AbABhAGIANQBhAC4AbgBsAC4AZABtAGQAcwBkAHAALgBjAG8AbQAvAGMAdQBzAHQAbwBtAHAAbABhAHkAcgBlAGEAZAB5AC8AcgBpAGcAaAB0AHMAbQBhAG4AYQBnAGUAcgAuAGEAcwBtAHgAPwBDAHIAbQBJAGQAPQBsAGcAaQBsAGEAYgA1AGEAaQB0AGMAJgBhAG0AcAA7AEEAYwBjAG8AdQBuAHQASQBkAD0AbABnAGkAbABhAGIANQBhAGkAdABjACYAYQBtAHAAOwBjAG8AbgB0AGUAbgB0AEkAZAA9ADgAMQA2ADMAZgAxAGUANgAwAGYAMQBiAGUAMgBiADEAMAAxADAANQBlADAAOAA5AGMANQA4AGEAYwA0ADEAOQBfAGEAOQBmAGEANQA1ADAAMwBkAGMANgBkAGMANABkAGIAMAA2ADUAYQBlADUAMABkADIANQAwADcAYQBlADcAOAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</cenc:pssh>
+			</ContentProtection>
+			<EssentialProperty schemeIdUri="http://dashif.org/guidelines/trickmode" value="1" />
+			<Role schemeIdUri="urn:mpeg:dash:role:2011" value="alternate" />
+			<SegmentTemplate initialization="S!d2ENU1RCLUhFVkMtREFTSBICVP7...8BFgSf/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(trickmode=Init)" timescale="10000000" presentationTimeOffset="8580000000" media="S!d2ENU1RCLUhFVkMtREFTSBICVP7...8BFgSf/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(trickmode=$Time$)">
+				<SegmentTimeline>
+					<S t="8580000000" d="20000000" r="239" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="trickmodedxADMWd3GxIknw.." width="720" height="576" sar="1:1" frameRate="1" codecs="hvc1.2.4.l90.90" maxPlayoutRate="25" scanType="progressive" bandwidth="1800039" />
+			<Representation id="trickmodedxADMc_PahIknw.." width="1920" height="1080" sar="1:1" frameRate="1" codecs="hvc1.2.4.l123.90" maxPlayoutRate="25" scanType="progressive" bandwidth="7000015" />
+		</AdaptationSet>
+		<AdaptationSet id="3" contentType="audio" group="2" lang="eng" segmentAlignment="true" bitstreamSwitching="true" mimeType="audio/mp4">
+			<AudioChannelConfiguration schemeIdUri="tag:dolby.com,2014:dash:audio_channel_configuration:2011" value="f801" />
+			<ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="MSPR 2.0">
+				<mspr:pro>qgMAAAEAAQCgAzwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AOABqADUAWQAzADYANgBNAGYAMABPAGYAVQBFAEkAQgBNAFAAOQBJAHAAdwA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBBAFAAMQB2ADgAZQB6AGwAbwBOAFEAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APABMAEEAXwBVAFIATAA+AGgAdAB0AHAAcwA6AC8ALwBvAGIAbwBkAHIAbQAuAGwAYQBiADUAYQAuAG4AbAAuAGQAbQBkAHMAZABwAC4AYwBvAG0ALwBjAHUAcwB0AG8AbQBwAGwAYQB5AHIAZQBhAGQAeQAvAHIAaQBnAGgAdABzAG0AYQBuAGEAZwBlAHIALgBhAHMAbQB4AD8AQwByAG0ASQBkAD0AbABnAGkAbABhAGIANQBhAGkAdABjACYAYQBtAHAAOwBBAGMAYwBvAHUAbgB0AEkAZAA9AGwAZwBpAGwAYQBiADUAYQBpAHQAYwAmAGEAbQBwADsAYwBvAG4AdABlAG4AdABJAGQAPQA4ADEANgAzAGYAMQBlADYAMABmADEAYgBlADIAYgAxADAAMQAwADUAZQAwADgAOQBjADUAOABhAGMANAAxADkAXwBhADkAZgBhADUANQAwADMAZABjADYAZABjADQAZABiADAANgA1AGEAZQA1ADAAZAAyADUAMAA3AGEAZQA3ADgAPAAvAEwAQQBfAFUAUgBMAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=</mspr:pro>
+				<cenc:pssh>AAADynBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAA6qqAwAAAQABAKADPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgA4AGoANQBZADMANgA2AE0AZgAwAE8AZgBVAEUASQBCAE0AUAA5AEkAcAB3AD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEEAUAAxAHYAOABlAHoAbABvAE4AUQA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AEwAQQBfAFUAUgBMAD4AaAB0AHQAcABzADoALwAvAG8AYgBvAGQAcgBtAC4AbABhAGIANQBhAC4AbgBsAC4AZABtAGQAcwBkAHAALgBjAG8AbQAvAGMAdQBzAHQAbwBtAHAAbABhAHkAcgBlAGEAZAB5AC8AcgBpAGcAaAB0AHMAbQBhAG4AYQBnAGUAcgAuAGEAcwBtAHgAPwBDAHIAbQBJAGQAPQBsAGcAaQBsAGEAYgA1AGEAaQB0AGMAJgBhAG0AcAA7AEEAYwBjAG8AdQBuAHQASQBkAD0AbABnAGkAbABhAGIANQBhAGkAdABjACYAYQBtAHAAOwBjAG8AbgB0AGUAbgB0AEkAZAA9ADgAMQA2ADMAZgAxAGUANgAwAGYAMQBiAGUAMgBiADEAMAAxADAANQBlADAAOAA5AGMANQA4AGEAYwA0ADEAOQBfAGEAOQBmAGEANQA1ADAAMwBkAGMANgBkAGMANABkAGIAMAA2ADUAYQBlADUAMABkADIANQAwADcAYQBlADcAOAA8AC8ATABBAF8AVQBSAEwAPgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</cenc:pssh>
+			</ContentProtection>
+			<Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+			<SegmentTemplate initialization="S!d2ENU1RCLUhFVkMtREFTSBICVP7...8BFgSf/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(audio_482_eng=Init)" timescale="48000" presentationTimeOffset="41184000" media="S!d2ENU1RCLUhFVkMtREFTSBICVP7...8BFgSf/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(audio_482_eng=$Time$)">
+				<SegmentTimeline>
+					<S t="41088000" d="96768" />
+					<S t="41184768" d="95232" />
+					<S t="41280000" d="96768" />
+					<S t="41376768" d="95232" />
+					<S t="41472000" d="96768" />
+					<S t="41568768" d="95232" />
+					<S t="41664000" d="96768" />
+					<S t="41760768" d="95232" />
+					<S t="41856000" d="96768" />
+					<S t="41952768" d="95232" />
+					<S t="42048000" d="96768" />
+					<S t="42144768" d="95232" />
+					<S t="42240000" d="96768" />
+					<S t="42336768" d="95232" />
+					<S t="42432000" d="96768" />
+					<S t="42528768" d="95232" />
+					<S t="42624000" d="96768" />
+					<S t="42720768" d="95232" />
+					<S t="42816000" d="96768" />
+					<S t="42912768" d="95232" />
+					<S t="43008000" d="96768" />
+					<S t="43104768" d="95232" />
+					<S t="43200000" d="96768" />
+					<S t="43296768" d="95232" />
+					<S t="43392000" d="96768" />
+					<S t="43488768" d="95232" />
+					<S t="43584000" d="96768" />
+					<S t="43680768" d="95232" />
+					<S t="43776000" d="96768" />
+					<S t="43872768" d="95232" />
+					<S t="43968000" d="96768" />
+					<S t="44064768" d="95232" />
+					<S t="44160000" d="96768" />
+					<S t="44256768" d="95232" />
+					<S t="44352000" d="96768" />
+					<S t="44448768" d="95232" />
+					<S t="44544000" d="96768" />
+					<S t="44640768" d="95232" />
+					<S t="44736000" d="96768" />
+					<S t="44832768" d="95232" />
+					<S t="44928000" d="96768" />
+					<S t="45024768" d="95232" />
+					<S t="45120000" d="96768" />
+					<S t="45216768" d="95232" />
+					<S t="45312000" d="96768" />
+					<S t="45408768" d="95232" />
+					<S t="45504000" d="96768" />
+					<S t="45600768" d="95232" />
+					<S t="45696000" d="96768" />
+					<S t="45792768" d="95232" />
+					<S t="45888000" d="96768" />
+					<S t="45984768" d="95232" />
+					<S t="46080000" d="96768" />
+					<S t="46176768" d="95232" />
+					<S t="46272000" d="96768" />
+					<S t="46368768" d="95232" />
+					<S t="46464000" d="96768" />
+					<S t="46560768" d="95232" />
+					<S t="46656000" d="96768" />
+					<S t="46752768" d="95232" />
+					<S t="46848000" d="96768" />
+					<S t="46944768" d="95232" />
+					<S t="47040000" d="96768" />
+					<S t="47136768" d="95232" />
+					<S t="47232000" d="96768" />
+					<S t="47328768" d="95232" />
+					<S t="47424000" d="96768" />
+					<S t="47520768" d="95232" />
+					<S t="47616000" d="96768" />
+					<S t="47712768" d="95232" />
+					<S t="47808000" d="96768" />
+					<S t="47904768" d="95232" />
+					<S t="48000000" d="96768" />
+					<S t="48096768" d="95232" />
+					<S t="48192000" d="96768" />
+					<S t="48288768" d="95232" />
+					<S t="48384000" d="96768" />
+					<S t="48480768" d="95232" />
+					<S t="48576000" d="96768" />
+					<S t="48672768" d="95232" />
+					<S t="48768000" d="96768" />
+					<S t="48864768" d="95232" />
+					<S t="48960000" d="96768" />
+					<S t="49056768" d="95232" />
+					<S t="49152000" d="96768" />
+					<S t="49248768" d="95232" />
+					<S t="49344000" d="96768" />
+					<S t="49440768" d="95232" />
+					<S t="49536000" d="96768" />
+					<S t="49632768" d="95232" />
+					<S t="49728000" d="96768" />
+					<S t="49824768" d="95232" />
+					<S t="49920000" d="96768" />
+					<S t="50016768" d="95232" />
+					<S t="50112000" d="96768" />
+					<S t="50208768" d="95232" />
+					<S t="50304000" d="96768" />
+					<S t="50400768" d="95232" />
+					<S t="50496000" d="96768" />
+					<S t="50592768" d="95232" />
+					<S t="50688000" d="96768" />
+					<S t="50784768" d="95232" />
+					<S t="50880000" d="96768" />
+					<S t="50976768" d="95232" />
+					<S t="51072000" d="96768" />
+					<S t="51168768" d="95232" />
+					<S t="51264000" d="96768" />
+					<S t="51360768" d="95232" />
+					<S t="51456000" d="96768" />
+					<S t="51552768" d="95232" />
+					<S t="51648000" d="96768" />
+					<S t="51744768" d="95232" />
+					<S t="51840000" d="96768" />
+					<S t="51936768" d="95232" />
+					<S t="52032000" d="96768" />
+					<S t="52128768" d="95232" />
+					<S t="52224000" d="96768" />
+					<S t="52320768" d="95232" />
+					<S t="52416000" d="96768" />
+					<S t="52512768" d="95232" />
+					<S t="52608000" d="96768" />
+					<S t="52704768" d="95232" />
+					<S t="52800000" d="96768" />
+					<S t="52896768" d="95232" />
+					<S t="52992000" d="96768" />
+					<S t="53088768" d="95232" />
+					<S t="53184000" d="96768" />
+					<S t="53280768" d="95232" />
+					<S t="53376000" d="96768" />
+					<S t="53472768" d="95232" />
+					<S t="53568000" d="96768" />
+					<S t="53664768" d="95232" />
+					<S t="53760000" d="96768" />
+					<S t="53856768" d="95232" />
+					<S t="53952000" d="96768" />
+					<S t="54048768" d="95232" />
+					<S t="54144000" d="96768" />
+					<S t="54240768" d="95232" />
+					<S t="54336000" d="96768" />
+					<S t="54432768" d="95232" />
+					<S t="54528000" d="96768" />
+					<S t="54624768" d="95232" />
+					<S t="54720000" d="96768" />
+					<S t="54816768" d="95232" />
+					<S t="54912000" d="96768" />
+					<S t="55008768" d="95232" />
+					<S t="55104000" d="96768" />
+					<S t="55200768" d="95232" />
+					<S t="55296000" d="96768" />
+					<S t="55392768" d="95232" />
+					<S t="55488000" d="96768" />
+					<S t="55584768" d="95232" />
+					<S t="55680000" d="96768" />
+					<S t="55776768" d="95232" />
+					<S t="55872000" d="96768" />
+					<S t="55968768" d="95232" />
+					<S t="56064000" d="96768" />
+					<S t="56160768" d="95232" />
+					<S t="56256000" d="96768" />
+					<S t="56352768" d="95232" />
+					<S t="56448000" d="96768" />
+					<S t="56544768" d="95232" />
+					<S t="56640000" d="96768" />
+					<S t="56736768" d="95232" />
+					<S t="56832000" d="96768" />
+					<S t="56928768" d="95232" />
+					<S t="57024000" d="96768" />
+					<S t="57120768" d="95232" />
+					<S t="57216000" d="96768" />
+					<S t="57312768" d="95232" />
+					<S t="57408000" d="96768" />
+					<S t="57504768" d="95232" />
+					<S t="57600000" d="96768" />
+					<S t="57696768" d="95232" />
+					<S t="57792000" d="96768" />
+					<S t="57888768" d="95232" />
+					<S t="57984000" d="96768" />
+					<S t="58080768" d="95232" />
+					<S t="58176000" d="96768" />
+					<S t="58272768" d="95232" />
+					<S t="58368000" d="96768" />
+					<S t="58464768" d="95232" />
+					<S t="58560000" d="96768" />
+					<S t="58656768" d="95232" />
+					<S t="58752000" d="96768" />
+					<S t="58848768" d="95232" />
+					<S t="58944000" d="96768" />
+					<S t="59040768" d="95232" />
+					<S t="59136000" d="96768" />
+					<S t="59232768" d="95232" />
+					<S t="59328000" d="96768" />
+					<S t="59424768" d="95232" />
+					<S t="59520000" d="96768" />
+					<S t="59616768" d="95232" />
+					<S t="59712000" d="96768" />
+					<S t="59808768" d="95232" />
+					<S t="59904000" d="96768" />
+					<S t="60000768" d="95232" />
+					<S t="60096000" d="96768" />
+					<S t="60192768" d="95232" />
+					<S t="60288000" d="96768" />
+					<S t="60384768" d="95232" />
+					<S t="60480000" d="96768" />
+					<S t="60576768" d="95232" />
+					<S t="60672000" d="96768" />
+					<S t="60768768" d="95232" />
+					<S t="60864000" d="96768" />
+					<S t="60960768" d="95232" />
+					<S t="61056000" d="96768" />
+					<S t="61152768" d="95232" />
+					<S t="61248000" d="96768" />
+					<S t="61344768" d="95232" />
+					<S t="61440000" d="96768" />
+					<S t="61536768" d="95232" />
+					<S t="61632000" d="96768" />
+					<S t="61728768" d="95232" />
+					<S t="61824000" d="96768" />
+					<S t="61920768" d="95232" />
+					<S t="62016000" d="96768" />
+					<S t="62112768" d="95232" />
+					<S t="62208000" d="96768" />
+					<S t="62304768" d="95232" />
+					<S t="62400000" d="96768" />
+					<S t="62496768" d="95232" />
+					<S t="62592000" d="96768" />
+					<S t="62688768" d="95232" />
+					<S t="62784000" d="96768" />
+					<S t="62880768" d="95232" />
+					<S t="62976000" d="96768" />
+					<S t="63072768" d="95232" />
+					<S t="63168000" d="96768" />
+					<S t="63264768" d="95232" />
+					<S t="63360000" d="96768" />
+					<S t="63456768" d="95232" />
+					<S t="63552000" d="96768" />
+					<S t="63648768" d="95232" />
+					<S t="63744000" d="96768" />
+					<S t="63840768" d="95232" />
+					<S t="63936000" d="96768" />
+					<S t="64032768" d="95232" />
+					<S t="64128000" d="96768" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="dxADIeIBnw.." audioSamplingRate="48000" codecs="ac-3" bandwidth="384000" />
+		</AdaptationSet>
+	</Period>
+	<Period id="5" duration="PT0H0M30S">
+		<AssetIdentifier schemeIdUri="urn:eidr" value="md:cid:EIDR:10.5240%2f0000-2A4E-F40A-0000-0000-C" />
+		<BaseURL>http://vast-e2esi.cdn.vhmd.upclabs.com/sdash/advert_eafafddd1b6eca5ddc2a847b6738cec5_0f7bac83e44e794d455545969e209c8b/index.mpd/</BaseURL>
+		<EventStream schemeIdUri="urn:LGAd:adEvent:2015" timescale="10000000">
+			<Event id="769" presentationTime="0">PFRyYWNraW5nRXZlbnRzPjxUcmFja2luZyBldmVudD0ic3RhcnQiPmh0dHA6Ly8xMC42My42OC4xODY6ODA4MC90cmFja2luZy9zdGFydD90aW1lc3RhbXA9W1RJTUVTVEFNUF0mYW1wO2NhY2hlYnVzdGluZz1bQ0FDSEVCVVNUSU5HXSZhbXA7bWVkaXBsYXloZWFkPVtNRURJQVBMQVlIRUFEXSZhbXA7YnJlYWtwb3NpdGlvbj1bQlJFQUtQT1NJVElPTl0mYW1wO2FkY291bnQ9W0FEQ09VTlRdJmFtcDt1bml2ZXJzYWxhZGlkPVtVTklWRVJTQUxBRElEXSZhbXA7b3RoZXI9W09USEVSXTwvVHJhY2tpbmc+PFRyYWNraW5nIGV2ZW50PSJmaXJzdFF1YXJ0aWxlIj5odHRwOi8vMTAuNjMuNjguMTg2OjgwODAvdHJhY2tpbmcvZmlyc3RRdWFydGlsZT90aW1lc3RhbXA9W1RJTUVTVEFNUF0mYW1wO2NhY2hlYnVzdGluZz1bQ0FDSEVCVVNUSU5HXSZhbXA7bWVkaXBsYXloZWFkPVtNRURJQVBMQVlIRUFEXSZhbXA7YnJlYWtwb3NpdGlvbj1bQlJFQUtQT1NJVElPTl0mYW1wO2FkY291bnQ9W0FEQ09VTlRdJmFtcDt1bml2ZXJzYWxhZGlkPVtVTklWRVJTQUxBRElEXSZhbXA7b3RoZXI9W09USEVSXTwvVHJhY2tpbmc+PFRyYWNraW5nIGV2ZW50PSJtaWRwb2ludCI+aHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL3RyYWNraW5nL21pZHBvaW50P3RpbWVzdGFtcD1bVElNRVNUQU1QXSZhbXA7Y2FjaGVidXN0aW5nPVtDQUNIRUJVU1RJTkddJmFtcDttZWRpcGxheWhlYWQ9W01FRElBUExBWUhFQURdJmFtcDticmVha3Bvc2l0aW9uPVtCUkVBS1BPU0lUSU9OXSZhbXA7YWRjb3VudD1bQURDT1VOVF0mYW1wO3VuaXZlcnNhbGFkaWQ9W1VOSVZFUlNBTEFESURdJmFtcDtvdGhlcj1bT1RIRVJdPC9UcmFja2luZz48VHJhY2tpbmcgZXZlbnQ9InRoaXJkUXVhcnRpbGUiPmh0dHA6Ly8xMC42My42OC4xODY6ODA4MC90cmFja2luZy90aGlyZFF1YXJ0aWxlP3RpbWVzdGFtcD1bVElNRVNUQU1QXSZhbXA7Y2FjaGVidXN0aW5nPVtDQUNIRUJVU1RJTkddJmFtcDttZWRpcGxheWhlYWQ9W01FRElBUExBWUhFQURdJmFtcDticmVha3Bvc2l0aW9uPVtCUkVBS1BPU0lUSU9OXSZhbXA7YWRjb3VudD1bQURDT1VOVF0mYW1wO3VuaXZlcnNhbGFkaWQ9W1VOSVZFUlNBTEFESURdJmFtcDtvdGhlcj1bT1RIRVJdPC9UcmFja2luZz48VHJhY2tpbmcgZXZlbnQ9ImNvbXBsZXRlIj5odHRwOi8vMTAuNjMuNjguMTg2OjgwODAvdHJhY2tpbmcvY29tcGxldGU/dGltZXN0YW1wPVtUSU1FU1RBTVBdJmFtcDtjYWNoZWJ1c3Rpbmc9W0NBQ0hFQlVTVElOR10mYW1wO21lZGlwbGF5aGVhZD1bTUVESUFQTEFZSEVBRF0mYW1wO2JyZWFrcG9zaXRpb249W0JSRUFLUE9TSVRJT05dJmFtcDthZGNvdW50PVtBRENPVU5UXSZhbXA7dW5pdmVyc2FsYWRpZD1bVU5JVkVSU0FMQURJRF0mYW1wO290aGVyPVtPVEhFUl08L1RyYWNraW5nPjxUcmFja2luZyBldmVudD0icHJvZ3Jlc3MiIG9mZnNldD0iMDA6MDA6MTAiPmh0dHA6Ly8xMC42My42OC4xODY6ODA4MC90cmFja2luZy9wcm9ncmVzcy0xMD90aW1lc3RhbXA9W1RJTUVTVEFNUF0mYW1wO2NhY2hlYnVzdGluZz1bQ0FDSEVCVVNUSU5HXSZhbXA7bWVkaXBsYXloZWFkPVtNRURJQVBMQVlIRUFEXSZhbXA7YnJlYWtwb3NpdGlvbj1bQlJFQUtQT1NJVElPTl0mYW1wO2FkY291bnQ9W0FEQ09VTlRdJmFtcDt1bml2ZXJzYWxhZGlkPVtVTklWRVJTQUxBRElEXSZhbXA7b3RoZXI9W09USEVSXTwvVHJhY2tpbmc+PFRyYWNraW5nIGV2ZW50PSJwbGF5ZXJDb2xsYXBzZSI+aHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL3RyYWNraW5nL3BsYXllckNvbGxhcHNlP3RpbWVzdGFtcD1bVElNRVNUQU1QXSZhbXA7Y2FjaGVidXN0aW5nPVtDQUNIRUJVU1RJTkddJmFtcDttZWRpcGxheWhlYWQ9W01FRElBUExBWUhFQURdJmFtcDticmVha3Bvc2l0aW9uPVtCUkVBS1BPU0lUSU9OXSZhbXA7YWRjb3VudD1bQURDT1VOVF0mYW1wO3VuaXZlcnNhbGFkaWQ9W1VOSVZFUlNBTEFESURdJmFtcDtvdGhlcj1bT1RIRVJdPC9UcmFja2luZz48VHJhY2tpbmcgZXZlbnQ9InBsYXllckV4cGFuZCI+aHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL3RyYWNraW5nL3BsYXllckV4cGFuZD90aW1lc3RhbXA9W1RJTUVTVEFNUF0mYW1wO2NhY2hlYnVzdGluZz1bQ0FDSEVCVVNUSU5HXSZhbXA7bWVkaXBsYXloZWFkPVtNRURJQVBMQVlIRUFEXSZhbXA7YnJlYWtwb3NpdGlvbj1bQlJFQUtQT1NJVElPTl0mYW1wO2FkY291bnQ9W0FEQ09VTlRdJmFtcDt1bml2ZXJzYWxhZGlkPVtVTklWRVJTQUxBRElEXSZhbXA7b3RoZXI9W09USEVSXTwvVHJhY2tpbmc+PFRyYWNraW5nIGV2ZW50PSJmdWxsc2NyZWVuIj5odHRwOi8vMTAuNjMuNjguMTg2OjgwODAvdHJhY2tpbmcvZnVsbHNjcmVlbi8xP3RpbWVzdGFtcD1bVElNRVNUQU1QXSZhbXA7Y2FjaGVidXN0aW5nPVtDQUNIRUJVU1RJTkddJmFtcDttZWRpcGxheWhlYWQ9W01FRElBUExBWUhFQURdJmFtcDticmVha3Bvc2l0aW9uPVtCUkVBS1BPU0lUSU9OXSZhbXA7YWRjb3VudD1bQURDT1VOVF0mYW1wO3VuaXZlcnNhbGFkaWQ9W1VOSVZFUlNBTEFESURdJmFtcDtvdGhlcj1bT1RIRVJdPC9UcmFja2luZz48VHJhY2tpbmcgZXZlbnQ9InJlc3VtZSI+aHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL3RyYWNraW5nL3Jlc3VtZT90aW1lc3RhbXA9W1RJTUVTVEFNUF0mYW1wO2NhY2hlYnVzdGluZz1bQ0FDSEVCVVNUSU5HXSZhbXA7bWVkaXBsYXloZWFkPVtNRURJQVBMQVlIRUFEXSZhbXA7YnJlYWtwb3NpdGlvbj1bQlJFQUtQT1NJVElPTl0mYW1wO2FkY291bnQ9W0FEQ09VTlRdJmFtcDt1bml2ZXJzYWxhZGlkPVtVTklWRVJTQUxBRElEXSZhbXA7b3RoZXI9W09USEVSXTwvVHJhY2tpbmc+PFRyYWNraW5nIGV2ZW50PSJwYXVzZSI+aHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL3RyYWNraW5nL3BhdXNlP3RpbWVzdGFtcD1bVElNRVNUQU1QXSZhbXA7Y2FjaGVidXN0aW5nPVtDQUNIRUJVU1RJTkddJmFtcDttZWRpcGxheWhlYWQ9W01FRElBUExBWUhFQURdJmFtcDticmVha3Bvc2l0aW9uPVtCUkVBS1BPU0lUSU9OXSZhbXA7YWRjb3VudD1bQURDT1VOVF0mYW1wO3VuaXZlcnNhbGFkaWQ9W1VOSVZFUlNBTEFESURdJmFtcDtvdGhlcj1bT1RIRVJdPC9UcmFja2luZz48VHJhY2tpbmcgZXZlbnQ9InNraXAiPmh0dHA6Ly8xMC42My42OC4xODY6ODA4MC90cmFja2luZy9za2lwP3RpbWVzdGFtcD1bVElNRVNUQU1QXSZhbXA7Y2FjaGVidXN0aW5nPVtDQUNIRUJVU1RJTkddJmFtcDttZWRpcGxheWhlYWQ9W01FRElBUExBWUhFQURdJmFtcDticmVha3Bvc2l0aW9uPVtCUkVBS1BPU0lUSU9OXSZhbXA7YWRjb3VudD1bQURDT1VOVF0mYW1wO3VuaXZlcnNhbGFkaWQ9W1VOSVZFUlNBTEFESURdJmFtcDtvdGhlcj1bT1RIRVJdPC9UcmFja2luZz48VHJhY2tpbmcgZXZlbnQ9InJld2luZCI+aHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL3RyYWNraW5nL3Jld2luZD90aW1lc3RhbXA9W1RJTUVTVEFNUF0mYW1wO2NhY2hlYnVzdGluZz1bQ0FDSEVCVVNUSU5HXSZhbXA7bWVkaXBsYXloZWFkPVtNRURJQVBMQVlIRUFEXSZhbXA7YnJlYWtwb3NpdGlvbj1bQlJFQUtQT1NJVElPTl0mYW1wO2FkY291bnQ9W0FEQ09VTlRdJmFtcDt1bml2ZXJzYWxhZGlkPVtVTklWRVJTQUxBRElEXSZhbXA7b3RoZXI9W09USEVSXTwvVHJhY2tpbmc+PC9UcmFja2luZ0V2ZW50cz48RXJyb3I+PCFbQ0RBVEFbaHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL2Vycm9yXV0+PC9FcnJvcj48SW1wcmVzc2lvbiBpZD0iMSI+PCFbQ0RBVEFbaHR0cDovLzEwLjYzLjY4LjE4Njo4MDgwL2ltcHJlc3Npb25dXT48L0ltcHJlc3Npb24+PFZpZGVvQ2xpY2tzPjxDbGlja1Rocm91Z2g+PCFbQ0RBVEFbaHR0cDovL0NsaWNrVGhyb3VnaF1dPjwvQ2xpY2tUaHJvdWdoPjxDbGlja1RyYWNraW5nPjwhW0NEQVRBW2h0dHA6Ly9DbGlja1RyYWNraW5nXV0+PC9DbGlja1RyYWNraW5nPjxDdXN0b21DbGljaz48IVtDREFUQVtodHRwOi8vQ3VzdG9tQ2xpY2tdXT48L0N1c3RvbUNsaWNrPjwvVmlkZW9DbGlja3M+PEFkVmVyaWZpY2F0aW9ucz48VmVyaWZpY2F0aW9uPjxKYXZhU2NyaXB0UmVzb3VyY2U+PCFbQ0RBVEFbaHR0cDovL2phdmFzY3JpcHQvcmVzb3VyY2VdXT48L0phdmFTY3JpcHRSZXNvdXJjZT48L1ZlcmlmaWNhdGlvbj48L0FkVmVyaWZpY2F0aW9ucz48VW5pdmVyc2FsQWRJZCBpZFJlZ2lzdHJ5PSJYWFhYIj5ZWVlZPC9Vbml2ZXJzYWxBZElkPjxNZWRpYUZpbGUgZGVsaXZlcnk9InN0cmVhbWluZyIgaGVpZ2h0PSIwIiB3aWR0aD0iMCIgdHlwZT0iYXBwbGljYXRpb24vZGFzaCt4bWwiPjwhW0NEQVRBW2h0dHA6Ly92YXN0LWUyZXNpLmNkbi52aG1kLnVwY2xhYnMuY29tL3NkYXNoL2FkdmVydF9lYWZhZmRkZDFiNmVjYTVkZGMyYTg0N2I2NzM4Y2VjNV8wZjdiYWM4M2U0NGU3OTRkNDU1NTQ1OTY5ZTIwOWM4Yi9pbmRleC5tcGQvTWFuaWZlc3Q/ZGV2aWNlPUFWQURdXT48L01lZGlhRmlsZT4KPENhdGVnb3J5IGF1dGhvcml0eT0iYWRwb3J0YWwuY2giPlByb21vPC9DYXRlZ29yeT4K</Event>
+		</EventStream>
+		<AdaptationSet id="1" contentType="video" group="1" par="16:9" maxWidth="1920" maxHeight="1080" maxFrameRate="25" segmentAlignment="true" bitstreamSwitching="true" mimeType="video/mp4" startWithSAP="1">
+			<SegmentTemplate initialization="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(video=Init)" timescale="10000000" media="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(video=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="20000000" r="14" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="dxADMfr3GRIbnw.." width="720" height="576" sar="1:1" frameRate="25" codecs="avc1.4d401f" scanType="progressive" bandwidth="1701882" />
+			<Representation id="dxADMbOMHhIbnw.." width="720" height="576" sar="1:1" frameRate="25" codecs="avc1.4d401f" scanType="progressive" bandwidth="2002099" />
+			<Representation id="dxADMeAtJhIbnw.." width="720" height="576" sar="1:1" frameRate="25" codecs="avc1.4d401f" scanType="progressive" bandwidth="2502112" />
+			<Representation id="dxADMdFwNRIbnw.." width="1280" height="720" sar="1:1" frameRate="25" codecs="avc1.4d401f" scanType="progressive" bandwidth="3502289" />
+			<Representation id="dxADMSVUTBIbnw.." width="1920" height="1080" sar="1:1" frameRate="25" codecs="avc1.4d4029" scanType="progressive" bandwidth="5002277" />
+			<Representation id="dxADMVXZahIbnw.." width="1920" height="1080" sar="1:1" frameRate="25" codecs="avc1.4d4029" scanType="progressive" bandwidth="7002453" />
+		</AdaptationSet>
+		<AdaptationSet id="2" contentType="video" group="1" par="16:9" maxWidth="1920" maxHeight="1080" maxFrameRate="25" segmentAlignment="true" bitstreamSwitching="true" mimeType="video/mp4" startWithSAP="1">
+			<SegmentTemplate initialization="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(video=Init)" timescale="10000000" media="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(video=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="20000000" r="14" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="dxADMeHBDRIknw.." width="720" height="576" sar="1:1" frameRate="25" codecs="hvc1.2.4.l93.b0" scanType="progressive" bandwidth="901601" />
+			<Representation id="dxADMd9-GxIknw.." width="720" height="576" sar="1:1" frameRate="25" codecs="hvc1.2.4.l93.b0" scanType="progressive" bandwidth="1801951" />
+			<Representation id="dxADMWmcaxIknw.." width="1920" height="1080" sar="1:1" frameRate="25" codecs="hvc1.2.4.l150.b0" scanType="progressive" bandwidth="7052393" />
+		</AdaptationSet>
+		<AdaptationSet id="3" contentType="video" group="32" par="16:9" maxWidth="1920" maxHeight="1080" maxFrameRate="25" segmentAlignment="true" bitstreamSwitching="true" mimeType="video/mp4" startWithSAP="1" codingDependency="false">
+			<EssentialProperty schemeIdUri="http://dashif.org/guidelines/trickmode" value="1" />
+			<Role schemeIdUri="urn:mpeg:dash:role:2011" value="alternate" />
+			<SegmentTemplate initialization="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(trickmode=Init)" timescale="10000000" media="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(trickmode=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="20000000" r="14" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="trickmodedxADMfr3GRIbnw.." width="720" height="576" sar="1:1" frameRate="1" codecs="avc1.4d401f" maxPlayoutRate="25" scanType="progressive" bandwidth="1701882" />
+			<Representation id="trickmodedxADMbOMHhIbnw.." width="720" height="576" sar="1:1" frameRate="1" codecs="avc1.4d401f" maxPlayoutRate="25" scanType="progressive" bandwidth="2002099" />
+			<Representation id="trickmodedxADMeAtJhIbnw.." width="720" height="576" sar="1:1" frameRate="1" codecs="avc1.4d401f" maxPlayoutRate="25" scanType="progressive" bandwidth="2502112" />
+			<Representation id="trickmodedxADMdFwNRIbnw.." width="1280" height="720" sar="1:1" frameRate="1" codecs="avc1.4d401f" maxPlayoutRate="25" scanType="progressive" bandwidth="3502289" />
+			<Representation id="trickmodedxADMSVUTBIbnw.." width="1920" height="1080" sar="1:1" frameRate="1" codecs="avc1.4d4029" maxPlayoutRate="25" scanType="progressive" bandwidth="5002277" />
+			<Representation id="trickmodedxADMVXZahIbnw.." width="1920" height="1080" sar="1:1" frameRate="1" codecs="avc1.4d4029" maxPlayoutRate="25" scanType="progressive" bandwidth="7002453" />
+		</AdaptationSet>
+		<AdaptationSet id="4" contentType="video" group="32" par="16:9" maxWidth="1920" maxHeight="1080" maxFrameRate="25" segmentAlignment="true" bitstreamSwitching="true" mimeType="video/mp4" startWithSAP="1" codingDependency="false">
+			<EssentialProperty schemeIdUri="http://dashif.org/guidelines/trickmode" value="2" />
+			<Role schemeIdUri="urn:mpeg:dash:role:2011" value="alternate" />
+			<SegmentTemplate initialization="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(trickmode=Init)" timescale="10000000" media="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(trickmode=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="20000000" r="14" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="trickmodedxADMeHBDRIknw.." width="720" height="576" sar="1:1" frameRate="1" codecs="hvc1.2.4.l93.b0" maxPlayoutRate="25" scanType="progressive" bandwidth="901601" />
+			<Representation id="trickmodedxADMd9-GxIknw.." width="720" height="576" sar="1:1" frameRate="1" codecs="hvc1.2.4.l93.b0" maxPlayoutRate="25" scanType="progressive" bandwidth="1801951" />
+			<Representation id="trickmodedxADMWmcaxIknw.." width="1920" height="1080" sar="1:1" frameRate="1" codecs="hvc1.2.4.l150.b0" maxPlayoutRate="25" scanType="progressive" bandwidth="7052393" />
+		</AdaptationSet>
+		<AdaptationSet id="5" contentType="audio" group="2" lang="und" segmentAlignment="true" bitstreamSwitching="true" mimeType="audio/mp4">
+			<AudioChannelConfiguration schemeIdUri="tag:dolby.com,2014:dash:audio_channel_configuration:2011" value="f801" />
+			<Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+			<SegmentTemplate initialization="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(audio_482_und=Init)" timescale="48000" media="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(audio_482_und=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="96768" />
+					<S t="96768" d="95232" />
+					<S t="192000" d="96768" />
+					<S t="288768" d="95232" />
+					<S t="384000" d="96768" />
+					<S t="480768" d="95232" />
+					<S t="576000" d="96768" />
+					<S t="672768" d="95232" />
+					<S t="768000" d="96768" />
+					<S t="864768" d="95232" />
+					<S t="960000" d="96768" />
+					<S t="1056768" d="95232" />
+					<S t="1152000" d="96768" />
+					<S t="1248768" d="95232" />
+					<S t="1344000" d="96768" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="dxADIeIBnw.." audioSamplingRate="48000" codecs="ac-3" bandwidth="384000" />
+		</AdaptationSet>
+		<AdaptationSet id="6" contentType="audio" group="2" lang="und" segmentAlignment="true" bitstreamSwitching="true" mimeType="audio/mp4">
+			<AudioChannelConfiguration schemeIdUri="tag:dolby.com,2014:dash:audio_channel_configuration:2011" value="a000" />
+			<Role schemeIdUri="urn:mpeg:dash:role:2011" value="alternate" />
+			<SegmentTemplate initialization="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(audio_483_und=Init)" timescale="48000" media="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(audio_483_und=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="96768" />
+					<S t="96768" d="95232" />
+					<S t="192000" d="96768" />
+					<S t="288768" d="95232" />
+					<S t="384000" d="96768" />
+					<S t="480768" d="95232" />
+					<S t="576000" d="96768" />
+					<S t="672768" d="95232" />
+					<S t="768000" d="96768" />
+					<S t="864768" d="95232" />
+					<S t="960000" d="96768" />
+					<S t="1056768" d="95232" />
+					<S t="1152000" d="96768" />
+					<S t="1248768" d="95232" />
+					<S t="1344000" d="96768" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="dxADIeMBnw.." audioSamplingRate="48000" codecs="ac-3" bandwidth="192000" />
+		</AdaptationSet>
+		<AdaptationSet id="7" contentType="audio" group="2" lang="und" segmentAlignment="true" bitstreamSwitching="true" mimeType="audio/mp4">
+			<AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+			<Role schemeIdUri="urn:mpeg:dash:role:2011" value="alternate" />
+			<SegmentTemplate initialization="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(audio_484_und=Init)" timescale="48000" media="S!d0FBVkFEEgJU.v...wEWBJ8_/QualityLevels($Bandwidth$,Level_params=$RepresentationID$)/Fragments(audio_484_und=$Time$)">
+				<SegmentTimeline>
+					<S t="0" d="96256" r="2" />
+					<S t="288768" d="95232" />
+					<S t="384000" d="96256" r="2" />
+					<S t="672768" d="95232" />
+					<S t="768000" d="96256" r="2" />
+					<S t="1056768" d="95232" />
+					<S t="1152000" d="96256" r="2" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation id="dxADIeQBnw.." audioSamplingRate="48000" codecs="mp4a.40.2" bandwidth="64000" />
+		</AdaptationSet>
+	</Period>
+</MPD>
